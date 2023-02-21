@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+ nav li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 1em;
+    margin-bottom: 1em;
+  }
+  
+  nav li:first-child {
+    margin-left: 0;
+  }
