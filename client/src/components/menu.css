@@ -1,3 +1,9 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  
+}
 nav {
     display: flex;
     justify-content: flex-end;
@@ -14,10 +20,17 @@ nav {
     display: flex;
     flex-direction: row;
     align-items: center;
-    margin-left: 1em;
-    margin-bottom: 1em;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    font-size: 3.5rem;
   }
   
-  nav li:first-child {
-    margin-left: 0;
-  }
+nav li a {
+  text-decoration: none;
+  color: #E7F6F2;
+  font-weight: bold;
+}
+
+nav li a:visited {
+  text-decoration: none;
+}

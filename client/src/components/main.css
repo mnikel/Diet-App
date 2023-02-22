@@ -1,22 +1,4 @@
 main {
-    background-color: #395B64;
-    justify-content: space-around;
-    align-items: center;
-    display: flex;
-}
-
-
-input {
-    display: flex;
-    background-color: #A5C9CA;
-    border: none;
-    border-radius: 20px;
-    width: 50rem;
-    height: 2rem;
-    color: black;
-    font-size: 1rem;
-}
-
-input:active {
-    border: none;
+    height: 90vh;
+    background-image: url(../../public/wiejskipieczarki.jpg);
 }

@@ -1,12 +1,17 @@
 header {
-    height: auto;
+    height: 100vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #2C3333;
+    background-image: url(../../public/wiejskipieczarki.jpg);
+    background-size: cover;
+    background-position: center;
 }
-
   
 header h1 {
+    display: flex;
     margin-left: 1.5em;
+    font-size: 3rem;
+    color: #E7F6F2;
   }
