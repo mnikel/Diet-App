@@ -1,6 +1,7 @@
 import { React, ReactDOM } from "react";
 import Button from "./button";
 import "./recipe.css";
+import Macros from "./macros";
 // TODO Dopisac funkcje dodajace do plannera 
 // TODO dopisac funkcje ktora pozwala na zobaczenie plannera
 const Recipe = ({
@@ -18,15 +19,7 @@ const Recipe = ({
     <div id="recipe">
       <img id="recipeimg" src={imageUrl} alt={recipeName} /> 
       <h3>{recipeName}</h3>
-      <div>
-        <h3>Macros:</h3> 
-        <ul id="macros_list">
-          <li>Kcal: {kcal}</li>
-          <li>Carbs: {carbs}</li>
-          <li>Protein: {protein}</li>
-          <li>Fat: {fat}</li>
-        </ul>
-      </div>
+     <Macros kcal="2137" carbs="2138" protein="2139" fat="2140" />
       <div>
         <h3>Ingredients:</h3>
         <ul id="ingredients_list">
