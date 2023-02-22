@@ -1,18 +1,18 @@
 import { React, ReactDOM } from "react";
 import "./macros.css"
-function Macros ({ kcal, carbs, protein, fat }) {
+
+const Macros = ({ macros, kcal}) => {
     return (
-        <div id="macros_dic">
-        <h3>Macros:</h3> 
-        <ul id="macros_list">
-          <li>Kcal: {kcal}</li>
-          <li>Carbs: {carbs}</li>
-          <li>Protein: {protein}</li>
-          <li>Fat: {fat}</li>
-        </ul>
+        <div className="macros">
+            <p>Macros:</p>
+            <ul>
+                <li>Kcal: {kcal}</li>
+                <li>Protein: {macros.protein.value} {macros.protein.unit}</li>
+                <li>Carbs: {macros.carbs.value} {macros.carbs.unit}</li>
+                <li>Fat: {macros.fat.value} {macros.fat.unit}</li>
+            </ul>
         </div>
-    )
-}
+    );
+};
 
-export default Macros
-
+export default Macros;

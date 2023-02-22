@@ -25,3 +25,11 @@ input {
 input:active {
     border: none;
 }
+#recipefinder {
+    height: auto;
+}
+#thumbnails_filter {
+display: flex;
+flex-wrap: wrap;
+flex: 0 0 12.5%;
+;}

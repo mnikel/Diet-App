@@ -3,6 +3,7 @@ import "./main.css";
 import axios from "axios";
 import RecipeThumbnail from "./recipethumbnail";
 import Recipe from "./recipe";
+
 function Main() {
   const handleQuasiFilter = (type) => {
     axios.get("/recipes").then((response) => {
@@ -13,7 +14,7 @@ function Main() {
   return (
     <div>
       <main>
-        <RecipeThumbnail
+        {/* <RecipeThumbnail
           recipeName={"Serek wiejski na wytrawnie"}
           kcal={"2137"}
           protein={"2137"}
@@ -38,7 +39,8 @@ function Main() {
             "Wymieszać z serkiem wiejskim",
             "Podawac z pieczywem",
           ]}
-        />{" "}
+        />{" "} */}
+        
       </main>
     </div>
   );
