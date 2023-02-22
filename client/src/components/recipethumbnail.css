@@ -1,7 +1,7 @@
 
 #thumbnail {
     width: 200px;
-    height: 200px; 
+    height: auto; 
     border: 1px solid black;
     background: #2C3333;
     box-shadow: 10px 10px 5px #E7F6F2;
