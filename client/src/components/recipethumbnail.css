@@ -1,0 +1,14 @@
+
+#thumbnail {
+    width: 200px;
+    height: 200px; 
+    border: 1px solid black;
+    background: #2C3333;
+    box-shadow: 10px 10px 5px #E7F6F2;
+    border-radius: 20px
+}
+
+#thumbnailimg {
+    height: 50px;
+    width: 100%;
+}

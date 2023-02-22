@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import logo from "../logo.svg";
 import Menu from "./menu";
-import FindRecipesButton from "./button";
 import "./header.css";
 import Button from "./button";
 function Header() {

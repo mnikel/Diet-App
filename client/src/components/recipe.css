@@ -1,0 +1,23 @@
+
+#recipe {
+    display: flex;
+    width: 900px;
+    height: auto; 
+    border: 1px solid black;
+    background: #2C3333;
+    box-shadow: 10px 10px 5px #E7F6F2;
+    border-radius: 20px
+}
+
+#recipeimg {
+    height: 50px;
+    width: 20%;
+}
+
+#macros_list {
+    list-style: none;
+}
+
+#ingredients_list {
+    list-style: none;
+}
