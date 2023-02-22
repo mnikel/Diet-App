@@ -26,13 +26,7 @@ function Header() {
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
           nec molestie dui. Cras aliquam cursus rhoncus. Duis interdum nisi
           euismod turpis venenatis rhoncus. Nam pellentesque dolor bibendum
-          aliquet sollicitudin. Pellentesque bibendum, lorem ut lobortis
-          efficitur, orci diam interdum justo, eu aliquam sem lorem quis justo.
-          Aliquam erat volutpat. Mauris ut mauris ligula. Nullam dictum vel orci
-          at vehicula. Nulla ex diam, vulputate ut tortor at, viverra lobortis
-          lectus. Vestibulum vitae tellus tempus, elementum orci id, volutpat
-          orci. Etiam varius eros sit amet massa semper, a eleifend dui
-          venenatis. Cras tempus venenatis diam eu tincidunt.
+          aliquet sollicitudin. 
         </h1>
         <Menu links={headerLinks} />
         <Button
