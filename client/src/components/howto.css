@@ -1,0 +1,23 @@
+#howto_main_div {
+    background-color: #395B64;
+    height: 20vh;
+    width: 100%;
+    background-color: #395B64;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  #howto_choosecategory_div, #howto_thinkabouthwattoeat_div, #howto_addtoplanner_div, #howto_printout_div{
+    height: 200px;
+    width: 200px;
+    background-color: #A5C9CA;
+  }
+  
+  #howto_choosecategory_div:hover, #howto_thinkabouthwattoeat_div:hover, #howto_addtoplanner_div:hover, #howto_printout_div:hover {
+    height: 200px;
+    width: 200px;
+    background-color: #E7F6F2;
+    color: black
+  }
