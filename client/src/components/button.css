@@ -48,3 +48,7 @@
   .Button.large:hover {
     background-color: #E7F6F2;
   }
+
+  .Button.active {
+    background-color: #E7F6F2;
+  }
