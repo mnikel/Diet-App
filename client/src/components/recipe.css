@@ -2,14 +2,13 @@
 #recipe {
     display: flex;
     flex-direction: row;
-    width: 900px;
-    height: auto; 
+    width: 2000px;
+    height: 1000px; 
     border: 1px solid black;
     background: #2C3333;
     box-shadow: 10px 10px 5px #E7F6F2;
     border-radius: 20px; 
     color: black;
-
 }
 
 #image_placeholder {
