@@ -1,12 +1,45 @@
 
 #recipe {
     display: flex;
+    flex-direction: row;
     width: 900px;
     height: auto; 
     border: 1px solid black;
     background: #2C3333;
     box-shadow: 10px 10px 5px #E7F6F2;
-    border-radius: 20px
+    border-radius: 20px; 
+    color: black;
+
+}
+
+#image_placeholder {
+    width: 400px;
+    height: 200px;
+    background-color: darkorange;
+}
+
+#recipe_name_macros {
+    color: black;
+    position: relative;
+    background-color: aquamarine;
+}
+
+#recipe_ingredients {
+    color: black;
+
+background-color: blue;
+}
+
+#recipe_preparation {
+    color: black;
+
+background-color: bisque;
+}
+
+#recipe_buttons {
+    color: black;
+    background-color: crimson;
+
 }
 
 #recipeimg {
@@ -20,4 +53,10 @@
 
 #ingredients_list {
     list-style: none;
+    column-count: 3;
 }
+
+#preparation_list {
+    column-count: 4;
+}
+
