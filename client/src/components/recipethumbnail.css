@@ -13,3 +13,8 @@
     width: 100%;
 }
 
+#thumbnailbutton {
+    border: none;
+    background: none;
+    color: #E7F6F2;
+}

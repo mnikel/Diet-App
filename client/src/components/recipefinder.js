@@ -3,12 +3,20 @@ import Button from "./button";
 import "./recipefinder.css"
 import axios from "axios";
 import RecipeThumbnail from "./recipethumbnail";
+import Recipe from "./recipe";
+import Macros from "./macros";
 function RecipeFinder () {
     
     const [recipes, setRecipes] = useState([])
     const [displayedRecipes, setDisplayedRecipes] = useState([])
     const [activeButton, setActiveButton] = useState(null);
-    
+    const [selectedRecipe, setSelectedRecipe] = useState(null) // ustawienie nowego state dla wybranego przepisu
+  
+    const handleClick = (recipe) => { // !!!!
+    setSelectedRecipe(recipe) // ustawia state na selected recipe czyli ten ktory klikasz!!
+    console.log("You've just clicked me!")
+  };
+
     const handleQuasiFilter = (type, event) => {
         axios.get("/recipes").then((response) => {
           setRecipes(response.data[`${type}`]);
@@ -47,8 +55,20 @@ function RecipeFinder () {
                     recipeName={recipe.name}
                     kcal={recipe.kcal}
                     macros={recipe.macros}
+                    onClick={() => handleClick(recipe)} // handle click w arrow by wykonal sie tylko raz
                 />
+                
             ))}
+                {selectedRecipe && ( // tutaj call selectedREcipe i jego render w komponencie
+                     <Recipe
+                         recipeName={selectedRecipe.name}
+                         kcal={selectedRecipe.kcal}
+                         macros={selectedRecipe.macros}
+                         ingredients={selectedRecipe.ingredients}
+                         preparation={selectedRecipe.preparation}
+  />
+)}
+
         </div>
 </main>
         </div>

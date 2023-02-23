@@ -8,9 +8,7 @@ const Recipe = ({
   imageUrl,
   recipeName,
   kcal,
-  protein,
-  fat,
-  carbs,
+  macros,
   ingredients,
   preparation,
 }) => {
@@ -19,12 +17,12 @@ const Recipe = ({
     <div id="recipe">
       <img id="recipeimg" src={imageUrl} alt={recipeName} /> 
       <h3>{recipeName}</h3>
-     <Macros kcal="2137" carbs="2138" protein="2139" fat="2140" />
+      {<Macros macros={macros} kcal={kcal}/>}
       <div>
         <h3>Ingredients:</h3>
         <ul id="ingredients_list">
           {ingredients.map((ingredient, index) => (
-            <li key={index}>{ingredient}</li> // TODO zmienic dodawanie spojrzec dokladnie jak wyglada strutkura chcemy tu i gramy i kuchenne miary
+            <li key={index}>{ingredient.name}{ingredient.quantity.value}{ingredient.quantity.unit}</li> // TODO zmienic dodawanie spojrzec dokladnie jak wyglada strutkura chcemy tu i gramy i kuchenne miary
           ))}
         </ul>
       </div>
