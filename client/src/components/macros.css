@@ -1,0 +1,32 @@
+.macros {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .macros h3 {
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    padding-left: 3rem;
+    margin-left: 1rem;
+  } 
+  
+  .macros ul {
+    list-style: none;
+    padding: 0;
+    margin-left: 1rem;
+  }
+  
+  .macros li {
+    text-align: left;
+  }
+  
+  .macros h5 {
+    margin: 0;
+    padding: 0;
+  }
+  
