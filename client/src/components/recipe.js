@@ -11,8 +11,15 @@ const Recipe = ({
   macros,
   ingredients,
   preparation,
+  onClick
 }) => {
-  
+  const handleAddToPlanner = () => {
+    console.log("add to planner!")
+  }
+
+  const handleViewPlanner = () => {
+    console.log("view meal planner!")
+  }
   const declinationEndings = {
     "łyżka": ["łyżka", "łyżki", "łyżek"],
     "łyżeczka": ["łyżeczka", "łyżeczki", "łyżeczek"],
@@ -48,7 +55,9 @@ const Recipe = ({
     return `${quantity} ${unit}`;
   } // ogarnac to lepiej kiedys tam na razie dziala w miare ok 
   // dodac edge do woreczek??
-  
+  const  handleClick = () => {
+    console.log("jak zyc")
+  }
   return ( // TODO Pomyslec gdzie dokladnie zdjecie
   <div id="recipe">
   <div id="recipe_header">
@@ -79,11 +88,11 @@ const Recipe = ({
     </ol>
   </div>
   <div id="recipe_buttons">
-    <Button label="ADD TO PLANNER" /* onClick={() => handleAddToPlanner()} */ url=""/>
-    <Button label="VIEW PLANNER"/*  onClick={() => handleViewPlanner()} */ url=""/>
+    <Button label="GO BACK" onClick={onClick} url=""/>
+    <Button label="ADD TO PLANNER" onClick={() => handleAddToPlanner()} url=""/>
+    <Button label="VIEW PLANNER" onClick={() => handleViewPlanner()} url=""/>
   </div>
 </div>
-
   );
 };
 

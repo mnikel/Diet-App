@@ -11,17 +11,20 @@ function RecipeFinder () {
     const [displayedRecipes, setDisplayedRecipes] = useState([])
     const [activeButton, setActiveButton] = useState(null);
     const [selectedRecipe, setSelectedRecipe] = useState(null) // ustawienie nowego state dla wybranego przepisu
-  
+    const [filteredRecipes, setFilteredRecipes] = useState([]); // 
+
     const handleClick = (recipe) => { // !!!!
     setSelectedRecipe(recipe) // ustawia state na selected recipe czyli ten ktory klikasz!!
     setDisplayedRecipes([])
     console.log("You've just clicked me!")
   };
 
+
     const handleQuasiFilter = (type, event) => {
         axios.get("/recipes").then((response) => {
           setRecipes(response.data[`${type}`]);
           setDisplayedRecipes(response.data[`${type}`]);
+          setFilteredRecipes(response.data[`${type}`])
           event.target.classList.add("active");
             if (activeButton && activeButton !== event.target) {
             activeButton.classList.remove("active");
@@ -34,10 +37,15 @@ function RecipeFinder () {
     const handleFilter = (event) => {
         const searchValue = event.target.value.toLowerCase();
         const filteredRecipes = recipes.filter((recipe) => recipe.name.toLowerCase().includes(searchValue))
-        setDisplayedRecipes(filteredRecipes);
+        setDisplayedRecipes(filteredRecipes); // to bylby ten stan
         setSelectedRecipe(null)
-        console.log(filteredRecipes)
+        setFilteredRecipes(filteredRecipes)
     }
+    
+    const handleGoBackClick = () => {
+      setSelectedRecipe(null);
+      setDisplayedRecipes(filteredRecipes);
+         }
     return (
         <div className="recipefinder_div">
             <section id="recipefinder">
@@ -60,7 +68,6 @@ function RecipeFinder () {
                     macros={recipe.macros}
                     onClick={() => handleClick(recipe)} // handle click w arrow by wykonal sie tylko raz
                 />
-                
             ))}
                 {selectedRecipe && ( // tutaj call selectedREcipe i jego render w komponencie
                      <Recipe
@@ -69,7 +76,7 @@ function RecipeFinder () {
                          macros={selectedRecipe.macros}
                          ingredients={selectedRecipe.ingredients}
                          preparation={selectedRecipe.preparation}
-  />
+                         onClick={() => handleGoBackClick()}  />
 )}
 
         </div>
