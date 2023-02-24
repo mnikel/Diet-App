@@ -35,6 +35,7 @@ function RecipeFinder () {
         const searchValue = event.target.value.toLowerCase();
         const filteredRecipes = recipes.filter((recipe) => recipe.name.toLowerCase().includes(searchValue))
         setDisplayedRecipes(filteredRecipes);
+        setSelectedRecipe(null)
         console.log(filteredRecipes)
     }
     return (
