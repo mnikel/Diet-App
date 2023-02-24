@@ -1,61 +1,65 @@
-
-#recipe {
-    display: flex;
-    flex-direction: row;
-    width: 2000px;
-    height: 1000px; 
-    border: 1px solid black;
-    background: #2C3333;
-    box-shadow: 10px 10px 5px #E7F6F2;
-    border-radius: 20px; 
-    color: black;
-}
-
-#image_placeholder {
-    width: 400px;
-    height: 200px;
-    background-color: darkorange;
-}
-
-#recipe_name_macros {
-    color: black;
+ #recipe {
     position: relative;
-    background-color: aquamarine;
-}
-
-#recipe_ingredients {
-    color: black;
-
-background-color: blue;
-}
-
-#recipe_preparation {
-    color: black;
-
-background-color: bisque;
-}
-
-#recipe_buttons {
-    color: black;
-    background-color: crimson;
-
-}
-
-#recipeimg {
-    height: 50px;
-    width: 20%;
-}
-
-#macros_list {
-    list-style: none;
-}
-
-#ingredients_list {
-    list-style: none;
-    column-count: 3;
-}
-
-#preparation_list {
-    column-count: 4;
-}
-
+    min-width: 800px;
+    max-width: 800px;
+    min-height: 1000px;
+    max-height: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #2C3333;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+  }
+  
+  #recipe_header {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+  }
+  
+  #recipe_name_macros {
+    display: flex;
+    align-items: center;
+  }
+  
+  #recipe_macros {
+    margin-left: 20px;
+  }
+  
+  #recipeimg {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  #recipe_ingredients, #recipe_preparation {
+    max-height: 400px;
+    overflow: auto;
+  }
+  
+  #recipe_ingredients li, #recipe_preparation li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  #recipe_ingredients li:last-of-type, #recipe_preparation li:last-of-type {
+    border-bottom: none;
+  }
+  
+  #recipe_buttons {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  
