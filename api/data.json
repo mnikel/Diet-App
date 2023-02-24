@@ -7,7 +7,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -29,7 +29,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -103,7 +103,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -251,7 +251,7 @@
           "name": "Pomidor koktajlowy",
           "quantity": {
             "value": 6,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -337,7 +337,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -418,7 +418,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -429,7 +429,7 @@
           "name": "Awokado",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 70,
@@ -440,7 +440,7 @@
           "name": "Papryka chili",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 10,
@@ -451,7 +451,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -537,7 +537,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -548,7 +548,7 @@
           "name": "Awokado",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 70,
@@ -559,7 +559,7 @@
           "name": "Białko jaja kurzego",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 35,
@@ -570,7 +570,7 @@
           "name": "Szczypiorek",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 5,
@@ -698,7 +698,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 180,
@@ -767,7 +767,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -778,7 +778,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -789,7 +789,7 @@
           "name": "Awokado",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 70,
@@ -800,7 +800,7 @@
           "name": "Cebula czerwona surowa",
           "quantity": {
             "value": 0.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 30,
@@ -898,7 +898,7 @@
           "name": "Awokado",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 70,
@@ -920,7 +920,7 @@
           "name": "Pomidor koktajlowy",
           "quantity": {
             "value": 10,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -1015,7 +1015,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -1070,7 +1070,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -1081,7 +1081,7 @@
           "name": "Pieczarka uprawna",
           "quantity": {
             "value": 10,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -1189,7 +1189,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -1304,7 +1304,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -1315,7 +1315,7 @@
           "name": "Awokado",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 70,
@@ -1460,7 +1460,7 @@
           "name": "Awokado",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 70,
@@ -1560,7 +1560,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -1671,7 +1671,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -1682,7 +1682,7 @@
           "name": "Awokado",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 70,
@@ -1693,7 +1693,7 @@
           "name": "Białko jaja kurzego",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 35,
@@ -1704,7 +1704,7 @@
           "name": "Szczypiorek",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 5,
@@ -1821,7 +1821,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -1952,7 +1952,7 @@
           "name": "Awokado",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 70,
@@ -1963,7 +1963,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -1974,7 +1974,7 @@
           "name": "Cukinia",
           "quantity": {
             "value": 0.13,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -2007,7 +2007,7 @@
           "name": "Papryka chili",
           "quantity": {
             "value": 0.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 5,
@@ -2084,7 +2084,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -2106,7 +2106,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -2117,7 +2117,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -2181,7 +2181,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -2192,7 +2192,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -2302,7 +2302,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -2405,7 +2405,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -2504,7 +2504,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -2602,7 +2602,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -2707,7 +2707,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -2718,7 +2718,7 @@
           "name": "Awokado",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 70,
@@ -2729,7 +2729,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -2740,7 +2740,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 60,
@@ -2751,7 +2751,7 @@
           "name": "Sałata lodowa",
           "quantity": {
             "value": 0.125,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 40,
@@ -2904,7 +2904,7 @@
           "name": "Pomidor koktajlowy",
           "quantity": {
             "value": 5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -2957,7 +2957,7 @@
           "name": "Pomidor koktajlowy",
           "quantity": {
             "value": 5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -3038,7 +3038,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -3049,7 +3049,7 @@
           "name": "Bułki grahamki",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 180,
@@ -3060,7 +3060,7 @@
           "name": "Cebula czerwona surowa",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -3082,7 +3082,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 80,
@@ -3115,7 +3115,7 @@
           "name": "Sałata lodowa",
           "quantity": {
             "value": 0.125,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 10,
@@ -3271,7 +3271,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 80,
@@ -3341,7 +3341,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -3471,7 +3471,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -3482,7 +3482,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -3526,7 +3526,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -3548,7 +3548,7 @@
           "name": "Pomidor koktajlowy",
           "quantity": {
             "value": 5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -3621,7 +3621,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -3632,7 +3632,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -3698,7 +3698,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -3869,7 +3869,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -3880,7 +3880,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -3913,7 +3913,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -3998,7 +3998,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -4102,7 +4102,7 @@
           "name": "Marchew",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 45,
@@ -4124,7 +4124,7 @@
           "name": "Pomarańcza",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 340,
@@ -4207,7 +4207,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -4290,7 +4290,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -4359,7 +4359,7 @@
           "name": "Jabłko",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 180,
@@ -4455,7 +4455,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -4547,7 +4547,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -4558,7 +4558,7 @@
           "name": "Kajzerka",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -5015,7 +5015,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -5119,7 +5119,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -5152,7 +5152,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -5200,7 +5200,7 @@
           "name": "Awokado",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 70,
@@ -5294,7 +5294,7 @@
           "name": "Awokado",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 70,
@@ -5305,7 +5305,7 @@
           "name": "Bułki grahamki",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 90,
@@ -5327,7 +5327,7 @@
           "name": "Pomidor koktajlowy",
           "quantity": {
             "value": 9,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 180,
@@ -5458,7 +5458,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -5563,7 +5563,7 @@
           "name": "Bułki grahamki",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 90,
@@ -5574,7 +5574,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 0.66,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -5643,7 +5643,7 @@
           "name": "Kajzerka",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 60,
@@ -5665,7 +5665,7 @@
           "name": "Parówki z szynki Krakus",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -5714,7 +5714,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -5725,7 +5725,7 @@
           "name": "Kajzerka",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 60,
@@ -5736,7 +5736,7 @@
           "name": "Parówki z szynki Krakus",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 40,
@@ -5809,7 +5809,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -5820,7 +5820,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -5853,7 +5853,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -5875,7 +5875,7 @@
           "name": "Kajzerka",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -5962,7 +5962,7 @@
           "name": "Pomarańcza",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 340,
@@ -6037,7 +6037,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -6048,7 +6048,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 75,
@@ -6107,7 +6107,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -6118,7 +6118,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -6140,7 +6140,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -6319,7 +6319,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -6330,7 +6330,7 @@
           "name": "Cukinia",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 250,
@@ -6352,7 +6352,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -6429,7 +6429,7 @@
           "name": "Kajzerka",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 60,
@@ -6466,7 +6466,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -6499,7 +6499,7 @@
           "name": "Pieczarka uprawna",
           "quantity": {
             "value": 8,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 160,
@@ -6570,7 +6570,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -6631,7 +6631,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -6697,7 +6697,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -6749,7 +6749,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -6804,7 +6804,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 180,
@@ -6877,7 +6877,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -7067,7 +7067,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -7100,7 +7100,7 @@
           "name": "Kurka surowa",
           "quantity": {
             "value": 20,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -7209,7 +7209,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -7300,7 +7300,7 @@
           "name": "Cytryna",
           "quantity": {
             "value": 0.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 20,
@@ -7333,7 +7333,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -7441,7 +7441,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -7501,7 +7501,7 @@
           "name": "Cebula czerwona surowa",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -7534,7 +7534,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 4,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -7556,7 +7556,7 @@
           "name": "Bułki grahamki",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 90,
@@ -7627,7 +7627,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -7685,7 +7685,7 @@
           "name": "Bułki grahamki",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 90,
@@ -7696,7 +7696,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -7777,7 +7777,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -7788,7 +7788,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -7843,7 +7843,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -7963,7 +7963,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -8022,7 +8022,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -8103,7 +8103,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -8184,7 +8184,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -8276,7 +8276,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -8368,7 +8368,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -8460,7 +8460,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -8563,7 +8563,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -8666,7 +8666,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -8769,7 +8769,7 @@
           "name": "Nektaryna",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 230,
@@ -8839,7 +8839,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -8920,7 +8920,7 @@
           "name": "Nektaryna",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 230,
@@ -8931,7 +8931,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -9001,7 +9001,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -9082,7 +9082,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -9233,7 +9233,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -9314,7 +9314,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -9395,7 +9395,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -9476,7 +9476,7 @@
           "name": "Banan",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 60,
@@ -9546,7 +9546,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -9627,7 +9627,7 @@
           "name": "Pomarańcza",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 340,
@@ -9859,7 +9859,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -10010,7 +10010,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -10080,7 +10080,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -10150,7 +10150,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -10209,7 +10209,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -10371,7 +10371,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -10442,7 +10442,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -10512,7 +10512,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -10523,7 +10523,7 @@
           "name": "Jabłko",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 180,
@@ -10604,7 +10604,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -10928,7 +10928,7 @@
           "name": "Jabłko",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 180,
@@ -10998,7 +10998,7 @@
           "name": "Pomarańcza",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 340,
@@ -11090,7 +11090,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -11171,7 +11171,7 @@
           "name": "Pomarańcza",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 340,
@@ -11241,7 +11241,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -11300,7 +11300,7 @@
           "name": "Brzoskwinia",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -11311,7 +11311,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -11392,7 +11392,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -11462,7 +11462,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -11554,7 +11554,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -11645,7 +11645,7 @@
           "name": "Pomarańcza",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 680,
@@ -11748,7 +11748,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -11910,7 +11910,7 @@
           "name": "Banan",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -12002,7 +12002,7 @@
           "name": "Pomarańcza",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 340,
@@ -12061,7 +12061,7 @@
           "name": "Kiwi",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -12201,7 +12201,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -12326,7 +12326,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -12385,7 +12385,7 @@
           "name": "Brzoskwinia",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -12466,7 +12466,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -12477,7 +12477,7 @@
           "name": "Pomarańcza",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 340,
@@ -12547,7 +12547,7 @@
           "name": "Banan",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 120,
@@ -12700,7 +12700,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -12851,7 +12851,7 @@
           "name": "Mięso z piersi indyka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -12884,7 +12884,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -12960,7 +12960,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -12993,7 +12993,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -13004,7 +13004,7 @@
           "name": "Pieczarka uprawna",
           "quantity": {
             "value": 5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -13122,7 +13122,7 @@
           "name": "Cytryna",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 40,
@@ -13252,7 +13252,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -13285,7 +13285,7 @@
           "name": "Pieczarka uprawna",
           "quantity": {
             "value": 5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -13373,7 +13373,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 300,
@@ -13384,7 +13384,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -13439,7 +13439,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 230,
@@ -13567,7 +13567,7 @@
           "name": "Cytryna",
           "quantity": {
             "value": 0.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 20,
@@ -13836,7 +13836,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -13847,7 +13847,7 @@
           "name": "Bułki grahamki",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 90,
@@ -13939,7 +13939,7 @@
           "name": "Cebula czerwona surowa",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -13972,7 +13972,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -14157,7 +14157,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -14266,7 +14266,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -14288,7 +14288,7 @@
           "name": "Cukinia",
           "quantity": {
             "value": 0.33,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 250,
@@ -14453,7 +14453,7 @@
           "name": "Papryka chili",
           "quantity": {
             "value": 0.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 5,
@@ -14581,7 +14581,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -14592,7 +14592,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -14781,7 +14781,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -14792,7 +14792,7 @@
           "name": "Cebula czerwona surowa",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -14836,7 +14836,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -14944,7 +14944,7 @@
           "name": "Marchew",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 90,
@@ -14955,7 +14955,7 @@
           "name": "Por",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 70,
@@ -15032,7 +15032,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -15054,7 +15054,7 @@
           "name": "Marchew",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 45,
@@ -15076,7 +15076,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 340,
@@ -15172,7 +15172,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -15183,7 +15183,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -15238,7 +15238,7 @@
           "name": "Pieczarka uprawna",
           "quantity": {
             "value": 5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -15381,7 +15381,7 @@
           "name": "Szalotka",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 20,
@@ -15458,7 +15458,7 @@
           "name": "Cukinia",
           "quantity": {
             "value": 0.26,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -15578,7 +15578,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -15589,7 +15589,7 @@
           "name": "Cukinia",
           "quantity": {
             "value": 0.33,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -15622,7 +15622,7 @@
           "name": "Marchew",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 90,
@@ -15644,7 +15644,7 @@
           "name": "Pieczarka uprawna",
           "quantity": {
             "value": 10,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -15688,7 +15688,7 @@
           "name": "Wołowina, polędwica",
           "quantity": {
             "value": 0.2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -15729,7 +15729,7 @@
           "name": "Cukinia",
           "quantity": {
             "value": 0.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -15762,7 +15762,7 @@
           "name": "Mięso z piersi indyka, bez skóry",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -15795,7 +15795,7 @@
           "name": "Pieczarka uprawna",
           "quantity": {
             "value": 5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -15889,7 +15889,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -16041,7 +16041,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -16188,7 +16188,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 0.75,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -16199,7 +16199,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -16351,7 +16351,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -16384,7 +16384,7 @@
           "name": "Pieczarka uprawna",
           "quantity": {
             "value": 8,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 160,
@@ -16395,7 +16395,7 @@
           "name": "Wołowina mielona",
           "quantity": {
             "value": 0.66,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -16482,7 +16482,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -16493,7 +16493,7 @@
           "name": "Cukinia",
           "quantity": {
             "value": 0.2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 125,
@@ -16515,7 +16515,7 @@
           "name": "Marchew",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 45,
@@ -16548,7 +16548,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -16696,7 +16696,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -16707,7 +16707,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -16740,7 +16740,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -16839,7 +16839,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 250,
@@ -16967,7 +16967,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 250,
@@ -17000,7 +17000,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -17117,7 +17117,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -17161,7 +17161,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -17260,7 +17260,7 @@
           "name": "Wołowina mielona",
           "quantity": {
             "value": 0.66,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -17327,7 +17327,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 25,
@@ -17349,7 +17349,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -17360,7 +17360,7 @@
           "name": "Marchew",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 45,
@@ -17404,7 +17404,7 @@
           "name": "Papryka żółta",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -17415,7 +17415,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 340,
@@ -17561,7 +17561,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -17696,7 +17696,7 @@
           "name": "Cukinia",
           "quantity": {
             "value": 0.33,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -17718,7 +17718,7 @@
           "name": "Marchew",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 45,
@@ -17740,7 +17740,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.66,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 130,
@@ -18023,7 +18023,7 @@
           "name": "Brokuły",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 250,
@@ -18045,7 +18045,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -18056,7 +18056,7 @@
           "name": "Cytryna",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 40,
@@ -18207,7 +18207,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -18218,7 +18218,7 @@
           "name": "Pomidor koktajlowy",
           "quantity": {
             "value": 10,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -18332,7 +18332,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -18354,7 +18354,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -18365,7 +18365,7 @@
           "name": "Marchew",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 45,
@@ -18512,7 +18512,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -18534,7 +18534,7 @@
           "name": "Marchew",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 45,
@@ -18671,7 +18671,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 0.75,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -18693,7 +18693,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -18834,7 +18834,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -18953,7 +18953,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -18986,7 +18986,7 @@
           "name": "Mięso z piersi indyka, bez skóry",
           "quantity": {
             "value": 4,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 400,
@@ -19019,7 +19019,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -19106,7 +19106,7 @@
           "name": "Pieczarka uprawna",
           "quantity": {
             "value": 10,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -19237,7 +19237,7 @@
           "name": "Pieczarka uprawna",
           "quantity": {
             "value": 10,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -19281,7 +19281,7 @@
           "name": "Cukinia",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 240,
@@ -19292,7 +19292,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -19332,7 +19332,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -19365,7 +19365,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 340,
@@ -19483,7 +19483,7 @@
           "name": "Mięso z piersi indyka, bez skóry",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 300,
@@ -19516,7 +19516,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -19549,7 +19549,7 @@
           "name": "Sałata lodowa",
           "quantity": {
             "value": 0.125,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 40,
@@ -19741,7 +19741,7 @@
           "name": "Cytryna",
           "quantity": {
             "value": 0.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 20,
@@ -19887,7 +19887,7 @@
           "name": "Mięso z piersi indyka, bez skóry",
           "quantity": {
             "value": 2,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -20052,7 +20052,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -20063,7 +20063,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -20203,7 +20203,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -20214,7 +20214,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -20360,7 +20360,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -20544,7 +20544,7 @@
           "name": "Cytryna",
           "quantity": {
             "value": 0.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 20,
@@ -20577,7 +20577,7 @@
           "name": "Marchew",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 45,
@@ -20610,7 +20610,7 @@
           "name": "Pomarańcza",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 170,
@@ -20686,7 +20686,7 @@
           "name": "Jaja kurze",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -20697,7 +20697,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -20708,7 +20708,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -20719,7 +20719,7 @@
           "name": "Cukinia",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 250,
@@ -20852,7 +20852,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -20874,7 +20874,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -20918,7 +20918,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 225,
@@ -21018,7 +21018,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -21051,7 +21051,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -21062,7 +21062,7 @@
           "name": "Pieczarka uprawna",
           "quantity": {
             "value": 8,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 160,
@@ -21134,7 +21134,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -21246,7 +21246,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -21345,7 +21345,7 @@
           "name": "Marchew",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 45,
@@ -21412,7 +21412,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 0.75,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 150,
@@ -21423,7 +21423,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -21522,7 +21522,7 @@
           "name": "Bułki grahamki",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 90,
@@ -21560,7 +21560,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -21571,7 +21571,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -21604,7 +21604,7 @@
           "name": "Pieczarka uprawna",
           "quantity": {
             "value": 10,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -21712,7 +21712,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -21818,7 +21818,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -21925,7 +21925,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -21936,7 +21936,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -21980,7 +21980,7 @@
           "name": "Pieczarka uprawna",
           "quantity": {
             "value": 10,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -22113,7 +22113,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 25,
@@ -22157,7 +22157,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 115,
@@ -22266,7 +22266,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -22277,7 +22277,7 @@
           "name": "Cukinia",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 250,
@@ -22386,7 +22386,7 @@
           "name": "Mięso z piersi kurczaka, bez skóry",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 200,
@@ -22549,7 +22549,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 1,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -22665,7 +22665,7 @@
           "name": "Cebula czerwona",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -22709,7 +22709,7 @@
           "name": "Pomidor",
           "quantity": {
             "value": 1.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 250,
@@ -22802,7 +22802,7 @@
           "name": "Bakłażan",
           "quantity": {
             "value": 0.33,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 100,
@@ -22813,7 +22813,7 @@
           "name": "Cebula",
           "quantity": {
             "value": 0.5,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -22824,7 +22824,7 @@
           "name": "Cukinia",
           "quantity": {
             "value": 0.13,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 50,
@@ -22879,7 +22879,7 @@
           "name": "Papryka czerwona",
           "quantity": {
             "value": 0.25,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 60,
@@ -22890,7 +22890,7 @@
           "name": "Pomidor koktajlowy",
           "quantity": {
             "value": 3,
-            "unit": "sztuk"
+            "unit": "sztuka"
           },
           "weight": {
             "value": 60,

@@ -36,7 +36,9 @@
     max-height: 400px;
     overflow: auto;
   }
-  
+  #recipe_ingredients p {
+    text-transform: uppercase;
+  }
   #recipe_ingredients li, #recipe_preparation li {
     display: flex;
     justify-content: space-between;
