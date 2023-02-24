@@ -14,6 +14,7 @@ function RecipeFinder () {
   
     const handleClick = (recipe) => { // !!!!
     setSelectedRecipe(recipe) // ustawia state na selected recipe czyli ten ktory klikasz!!
+    setDisplayedRecipes([])
     console.log("You've just clicked me!")
   };
 

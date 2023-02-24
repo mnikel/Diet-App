@@ -26,6 +26,7 @@ const Recipe = ({
     "szklanka": ["szklanka", "szklanki", "szklanek"],
     "liść": ["liść", "liście", "liści"],
     "ząbek": ["ząbek", "ząbki", "ząbków"], 
+    "woreczek": ["woreczek", "woreczka", "woreczków"]
   };
   
   function formatQuantity(quantity, unit) {
@@ -45,7 +46,7 @@ const Recipe = ({
     }
     return `${quantity} ${unit}`;
   } // ogarnac to lepiej kiedys tam na razie dziala w miare ok 
-  
+  // dodac edge do woreczek??
   
   return ( // TODO Pomyslec gdzie dokladnie zdjecie
   <div id="recipe">
