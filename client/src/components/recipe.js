@@ -26,7 +26,8 @@ const Recipe = ({
     "szklanka": ["szklanka", "szklanki", "szklanek"],
     "liść": ["liść", "liście", "liści"],
     "ząbek": ["ząbek", "ząbki", "ząbków"], 
-    "woreczek": ["woreczek", "woreczka", "woreczków"]
+    "woreczek": ["woreczek", "woreczka", "woreczków"],
+    "kostka": ["kostka", "kostki", "kostek"]
   };
   
   function formatQuantity(quantity, unit) {

@@ -27,6 +27,7 @@ function RecipeFinder () {
             activeButton.classList.remove("active");
           }
           setActiveButton(event.target);
+          setSelectedRecipe(null) // ustawienie dla state po ponownym kliknieciu na kategorie
         });
       };
       
