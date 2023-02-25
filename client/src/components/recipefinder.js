@@ -20,7 +20,7 @@ function RecipeFinder () {
   };
 
 
-    const handleQuasiFilter = (type, event) => {
+    const handleRequest = (type, event) => {
         axios.get("/recipes").then((response) => {
           setRecipes(response.data[`${type}`]);
           setDisplayedRecipes(response.data[`${type}`]);
@@ -51,9 +51,9 @@ function RecipeFinder () {
             <section id="recipefinder">
                 <p>Kategorie:</p>
                 <div className="recipefinder_div_categories">
-                <Button label="Breakfasts" onClick={(event) => handleQuasiFilter("breakfasts", event)} url=""/>
-                <Button label="Shakes" onClick={(event) => handleQuasiFilter("shakes", event)} url=""/>
-                <Button label="Dinners" onClick={(event) => handleQuasiFilter("dinners", event)} url=""/>
+                <Button label="Breakfasts" onClick={(event) => handleRequest("breakfasts", event)} url=""/>
+                <Button label="Shakes" onClick={(event) => handleRequest("shakes", event)} url=""/>
+                <Button label="Dinners" onClick={(event) => handleRequest("dinners", event)} url=""/>
                 <input type="text" placeholder="Search for a recipe..." onInput={handleFilter}></input>
                 </div>
             </section>

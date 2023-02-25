@@ -1,7 +1,7 @@
-import { React, ReactDOM } from "react";
+import { React } from "react";
 import Button from "./button";
-import "./recipe.css";
 import Macros from "./macros";
+import "./recipe.css";
 // TODO Dopisac funkcje dodajace do plannera 
 // TODO dopisac funkcje ktora pozwala na zobaczenie plannera
 const Recipe = ({
@@ -72,7 +72,7 @@ const Recipe = ({
     </div>
   </div>
   <div id="recipe_ingredients">
-    <h3>Ingredients:</h3>
+    <h3>Składniki:</h3>
     <ul id="ingredients_list">
       {ingredients.map((ingredient, index) => (
         <li key={index}><h3>{ingredient.name.toUpperCase()}</h3><p>{formatQuantity(ingredient.quantity.value, ingredient.quantity.unit)} LUB {ingredient.weight.value} {ingredient.weight.unit}</p></li>
@@ -80,7 +80,7 @@ const Recipe = ({
     </ul>
   </div>
   <div id="recipe_preparation">
-    <h3>Preparation:</h3>
+    <h3>Przygotowanie:</h3>
     <ol id="preparation_list">
       {preparation.map((step, index) => (
         <li key={index}>{step}</li>
@@ -88,9 +88,9 @@ const Recipe = ({
     </ol>
   </div>
   <div id="recipe_buttons">
-    <Button label="GO BACK" onClick={onClick} url=""/>
-    <Button label="ADD TO PLANNER" onClick={() => handleAddToPlanner()} url=""/>
-    <Button label="VIEW PLANNER" onClick={() => handleViewPlanner()} url=""/>
+    <Button label="POWRÓT" onClick={onClick} url=""/>
+    <Button label="DODAJ DO PLANU" onClick={() => handleAddToPlanner()} url=""/>
+    <Button label="ZOBACZ PLAN" onClick={() => handleViewPlanner()} url=""/>
   </div>
 </div>
   );

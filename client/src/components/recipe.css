@@ -30,6 +30,7 @@
     max-width: 100%;
     height: auto;
     border-radius: 5px;
+    
   }
   
   #recipe_ingredients, #recipe_preparation {
@@ -65,3 +66,7 @@
     margin-right: 1rem;
   }
   
+  #image_placeholder {
+    background-image: url(../../public/wiejskipieczarki.jpg); 
+
+  }
