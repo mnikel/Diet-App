@@ -49,12 +49,12 @@ function RecipeFinder () {
     return (
         <div className="recipefinder_div">
             <section id="recipefinder">
+            <div className="recipefinder_div_categories">
                 <p>Kategorie:</p>
-                <div className="recipefinder_div_categories">
-                <Button label="Breakfasts" onClick={(event) => handleRequest("breakfasts", event)} url=""/>
-                <Button label="Shakes" onClick={(event) => handleRequest("shakes", event)} url=""/>
-                <Button label="Dinners" onClick={(event) => handleRequest("dinners", event)} url=""/>
-                <input type="text" placeholder="Search for a recipe..." onInput={handleFilter}></input>
+                <Button label="Śniadania" onClick={(event) => handleRequest("breakfasts", event)} url=""/>
+                <Button label="Koktajle" onClick={(event) => handleRequest("shakes", event)} url=""/>
+                <Button label="Obiady" onClick={(event) => handleRequest("dinners", event)} url=""/>
+                <input type="text" placeholder="Wyszukaj przepis..." onInput={handleFilter}></input>
                 </div>
             </section>
             <main>

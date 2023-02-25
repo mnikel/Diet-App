@@ -6,21 +6,44 @@ section {
         justify-content: space-around;
         flex-direction: row;
 }
+.recipefinder_div {
+    background-color: #395B64 ;
+}
 .recipefinder_div_categories {
     display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
     margin: 1em auto;
 } 
-
-input {
-    display: flex;
+.recipefinder_div_categories p {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.recipefinder_div_categories button {
+    font-weight: bold;
+    font-size: 1rem;
+    height: 3rem;
+    margin: 1rem;
+}
+.recipefinder_div_categories input {
+    position: absolute;
+    margin-top: 5rem;
     background-color: #A5C9CA;
     border: none;
     border-radius: 20px;
     width: 50rem;
-    height: 2rem;
+    height: 3rem;
     color: black;
-    font-size: 1rem;
+    font-size: 2rem;
 }
+
+.recipefinder_div_categories button {
+  text-transform: uppercase ;
+} 
+
+
 
 input:active {
     border: none;
@@ -29,7 +52,9 @@ input:active {
     height: auto;
 }
 #thumbnails_filter {
+margin-top: 2rem;
 display: flex;
 flex-wrap: wrap;
 flex: 0 0 12.5%;
+background-color: #395B64
 ;}
