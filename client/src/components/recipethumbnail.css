@@ -16,9 +16,11 @@
     border-top-left-radius: 20px;
     background-image: url(../../public/wiejskipieczarki.jpg);
 }
-#thumbnailimg img {
-    height: 50px;
-    width: 100%;
+#thumbnail_img img {
+    height: 100px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
 }
 
 #thumbnailbutton {

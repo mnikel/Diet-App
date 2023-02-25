@@ -45,7 +45,7 @@
       "kcal": 667,
       "serving_size": 1,
       "id": 1,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Owsianka z owocami i wiórkami kokosowymi",
@@ -94,7 +94,7 @@
       "kcal": 935,
       "serving_size": 1,
       "id": 2,
-      "imageUrl": ""
+      "imageUrl": "owsiankazowocamiiworkamikokosowymi.png"
     },
     {
       "name": "Omlet z ziołowym sosem, szynką i pomidorami",
@@ -167,7 +167,7 @@
       "kcal": 696,
       "serving_size": 1,
       "id": 3,
-      "imageUrl": ""
+      "imageUrl": "omletzziolowymsosemszynkaipomidorami.png"
     },
     {
       "name": "Owsianka z truskawkami i bananem",
@@ -215,7 +215,7 @@
       "kcal": 884,
       "serving_size": 1,
       "id": 4,
-      "imageUrl": ""
+      "imageUrl": "owsiankaztruskawkamiibananem.png"
     },
     {
       "name": "Jajecznica z awokado i papryczką chili",
@@ -278,7 +278,7 @@
       "kcal": 751,
       "serving_size": 1,
       "id": 5,
-      "imageUrl": ""
+      "imageUrl": "jajecznicazawokaoipapryczkachili.png"
     },
     {
       "name": "Owsiany omlet z warzywami",
@@ -354,7 +354,7 @@
       "kcal": 659,
       "serving_size": 1,
       "id": 6,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Kanapki z szynką",
@@ -396,7 +396,7 @@
       "kcal": 660,
       "serving_size": 1,
       "id": 7,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Huevos rancheros, czyli jajka po ranczersku ",
@@ -465,7 +465,7 @@
       "kcal": 606,
       "serving_size": 1,
       "id": 8,
-      "imageUrl": ""
+      "imageUrl": "huevosrancheros.png"
     },
     {
       "name": "Kanapki z vege pastą i pomidorem",
@@ -526,7 +526,7 @@
       "kcal": 559,
       "serving_size": 1,
       "id": 9,
-      "imageUrl": ""
+      "imageUrl": "kanapkizvegepasta.png"
     },
     {
       "name": "Jajka w salami",
@@ -609,7 +609,7 @@
       "kcal": 633,
       "serving_size": 1,
       "id": 10,
-      "imageUrl": ""
+      "imageUrl": "jajkawsalami.png"
     },
     {
       "name": "Konopna owsianka",
@@ -673,7 +673,7 @@
       "kcal": 695,
       "serving_size": 1,
       "id": 11,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Omlet szpinakowy z awokado",
@@ -755,7 +755,7 @@
       "kcal": 610,
       "serving_size": 1,
       "id": 12,
-      "imageUrl": ""
+      "imageUrl": "omletszpinakowyzawokado.png"
     },
     {
       "name": "Grzanki z pastą z awokado i fetą",
@@ -805,7 +805,7 @@
       "kcal": 630,
       "serving_size": 1,
       "id": 13,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Jajka z jogurtem i kiełkami rzodkiewki",
@@ -860,7 +860,7 @@
       "kcal": 683,
       "serving_size": 1,
       "id": 14,
-      "imageUrl": ""
+      "imageUrl": "jajkazjogurtemikielkamirzodkiewki.png"
     },
     {
       "name": "Owsiany omlet z warzywami",
@@ -936,7 +936,7 @@
       "kcal": 614,
       "serving_size": 1,
       "id": 15,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Omlet warzywny z curry",
@@ -1000,7 +1000,7 @@
       "kcal": 415,
       "serving_size": 1,
       "id": 16,
-      "imageUrl": ""
+      "imageUrl": "omletwarzywnyzcurry.png"
     },
     {
       "name": "Pikantne śniadaniowe quesadillas z cukinią",
@@ -1075,7 +1075,7 @@
       "kcal": 658,
       "serving_size": 1,
       "id": 17,
-      "imageUrl": ""
+      "imageUrl": "pikantnesniadaniowequesadillaszcukinia.png"
     },
     {
       "name": "Jajka sadzone z dodatkami",
@@ -1128,7 +1128,7 @@
       "kcal": 605,
       "serving_size": 1,
       "id": 18,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Tortilla z jajkiem i bekonem",
@@ -1193,7 +1193,7 @@
       "kcal": 793,
       "serving_size": 1,
       "id": 19,
-      "imageUrl": ""
+      "imageUrl": "tortillazjajkiemibekonem.png"
     },
     {
       "name": "Orzechowo - czekoladowa szybka owsianka ze skyrem",
@@ -1236,7 +1236,7 @@
       "kcal": 725,
       "serving_size": 1,
       "id": 20,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Owsianka a'la bounty z truskawkami i orzechami",
@@ -1301,7 +1301,7 @@
       "kcal": 606,
       "serving_size": 1,
       "id": 21,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Jajka z sosem jogurtowo-ogórkowym",
@@ -1355,7 +1355,7 @@
       "kcal": 546,
       "serving_size": 1,
       "id": 22,
-      "imageUrl": ""
+      "imageUrl": "jajkazsosemjogurtowoogrokowym.png"
     },
     {
       "name": "Nocna owsianka czekoladowa z masłem orzechowym",
@@ -1410,7 +1410,7 @@
       "kcal": 569,
       "serving_size": 1,
       "id": 23,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Nadziewany omlet",
@@ -1474,7 +1474,7 @@
       "kcal": 560,
       "serving_size": 1,
       "id": 24,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Wegański ser konopny - przepis na 3 porcje",
@@ -1537,7 +1537,7 @@
       "kcal": 486,
       "serving_size": 3,
       "id": 25,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Serek wiejski z pomidorkami i rzodkiewką",
@@ -1585,7 +1585,7 @@
       "kcal": 487,
       "serving_size": 1,
       "id": 26,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Śniadaniowa kanapka z kurczakiem",
@@ -1651,7 +1651,7 @@
       "kcal": 718,
       "serving_size": 1,
       "id": 27,
-      "imageUrl": ""
+      "imageUrl": "sniadaniowakanapkazkurczakiem.png"
     },
     {
       "name": "Deser z nasionami konopii",
@@ -1696,7 +1696,7 @@
       "kcal": 741,
       "serving_size": 1,
       "id": 28,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Kanapki z wędliną i warzywami wiosennymi",
@@ -1744,7 +1744,7 @@
       "kcal": 475,
       "serving_size": 1,
       "id": 29,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Keto owsianka z borówkami na zimno",
@@ -1812,7 +1812,7 @@
       "kcal": 533,
       "serving_size": 1,
       "id": 30,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Omlet hiszpański - pisto",
@@ -1888,7 +1888,7 @@
       "kcal": 696,
       "serving_size": 1,
       "id": 31,
-      "imageUrl": ""
+      "imageUrl": "omlethiszpankipisto.png"
     },
     {
       "name": "Frittata z szynką i warzywami",
@@ -1964,7 +1964,7 @@
       "kcal": 435,
       "serving_size": 1,
       "id": 32,
-      "imageUrl": ""
+      "imageUrl": "fritattazszynkaiwarzywami.png"
     },
     {
       "name": "Orzechowa 'owsianka' lowcarb",
@@ -2018,7 +2018,7 @@
       "kcal": 622,
       "serving_size": 1,
       "id": 33,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Jajecznica z cebulą i pomidorem z pieczywem",
@@ -2080,7 +2080,7 @@
       "kcal": 522,
       "serving_size": 1,
       "id": 34,
-      "imageUrl": ""
+      "imageUrl": "jajecznicazduszonacebulkaipomidorami.png"
     },
     {
       "name": "Konopna owsianka lowcarb",
@@ -2134,7 +2134,7 @@
       "kcal": 666,
       "serving_size": 1,
       "id": 35,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Marchewkowa - korzenna owsianka z pomarańczą",
@@ -2194,7 +2194,7 @@
       "kcal": 594,
       "serving_size": 1,
       "id": 36,
-      "imageUrl": ""
+      "imageUrl": "marchewkowakorzennaowsiankazpomarancza.png"
     },
     {
       "name": "Orzechowo - czekoladowa szybka owsianka",
@@ -2239,7 +2239,7 @@
       "kcal": 516,
       "serving_size": 1,
       "id": 37,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Owsianka z bananem i masłem orzechowym",
@@ -2276,7 +2276,7 @@
       "kcal": 587,
       "serving_size": 1,
       "id": 38,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Owsianka z jabłkiem i cynamonem",
@@ -2328,7 +2328,7 @@
       "kcal": 596,
       "serving_size": 1,
       "id": 39,
-      "imageUrl": ""
+      "imageUrl": "owsiankazjablkiemicynamonem.png"
     },
     {
       "name": "Owsianka z truskawkami i bananem",
@@ -2376,7 +2376,7 @@
       "kcal": 687,
       "serving_size": 1,
       "id": 40,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Bułki śniadaniowe z pastą jajeczną (szybki przepis)",
@@ -2429,7 +2429,7 @@
       "kcal": 624,
       "serving_size": 1,
       "id": 41,
-      "imageUrl": ""
+      "imageUrl": "bulkisniadaniowezpastajajeczna.png"
     },
     {
       "name": "Kanapka z pastą tuńczykowo-orzechową",
@@ -2483,7 +2483,7 @@
       "kcal": 550,
       "serving_size": 1,
       "id": 42,
-      "imageUrl": ""
+      "imageUrl": "kanapkazpastatunczykowoorzecowa.png"
     },
     {
       "name": "Śniadaniowa tortilla z szynką i serem",
@@ -2524,7 +2524,7 @@
       "kcal": 690,
       "serving_size": 1,
       "id": 43,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Pasta śniadaniowa z pieczywem",
@@ -2568,7 +2568,7 @@
       "kcal": 477,
       "serving_size": 1,
       "id": 44,
-      "imageUrl": ""
+      "imageUrl": "pastasniadaniowazpieczywem.png"
     },
     {
       "name": "Migdałowo - czekoladowa owsianka z borówkami",
@@ -2624,7 +2624,7 @@
       "kcal": 621,
       "serving_size": 1,
       "id": 45,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Szybki placek owsiany ",
@@ -2678,7 +2678,7 @@
       "kcal": 690,
       "serving_size": 1,
       "id": 46,
-      "imageUrl": ""
+      "imageUrl": "szybkiplacekowsiany.png"
     },
     {
       "name": "Jajka na miękko, kanapki z pomidorem i ogórkiem",
@@ -2721,7 +2721,7 @@
       "kcal": 507,
       "serving_size": 1,
       "id": 47,
-      "imageUrl": ""
+      "imageUrl": "jajanamiekkokanapkizpomidoremiogorkiem.png"
     },
     {
       "name": "Kanapki z pastą z serka i awokado",
@@ -2771,7 +2771,7 @@
       "kcal": 543,
       "serving_size": 1,
       "id": 48,
-      "imageUrl": ""
+      "imageUrl": "kanapkizpastazserkaiawokado.png"
     },
     {
       "name": "Guacamole z pieczywem i pomidorkami",
@@ -2821,7 +2821,7 @@
       "kcal": 397,
       "serving_size": 1,
       "id": 49,
-      "imageUrl": ""
+      "imageUrl": "guacamole.png"
     },
     {
       "name": "Kanapki z masłem orzechowym i dżemem",
@@ -2859,7 +2859,7 @@
       "kcal": 437,
       "serving_size": 1,
       "id": 50,
-      "imageUrl": ""
+      "imageUrl": "kanapkizmaslemorzechowymidzemem.png"
     },
     {
       "name": "Owsianka tiramisu ",
@@ -2914,7 +2914,7 @@
       "kcal": 549,
       "serving_size": 1,
       "id": 51,
-      "imageUrl": ""
+      "imageUrl": "owsiankatiramisu.png"
     },
     {
       "name": "Bułka 2 sery z bazylią ",
@@ -2956,7 +2956,7 @@
       "kcal": 508,
       "serving_size": 1,
       "id": 52,
-      "imageUrl": ""
+      "imageUrl": "bulkadwaseryzbazylia.png"
     },
     {
       "name": "Parówki z szynki z pieczywem",
@@ -2995,7 +2995,7 @@
       "kcal": 639,
       "serving_size": 1,
       "id": 53,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Jajecznica z kiełbaską",
@@ -3046,7 +3046,7 @@
       "kcal": 512,
       "serving_size": 1,
       "id": 54,
-      "imageUrl": ""
+      "imageUrl": "jajecznicazkielbaska.png"
     },
     {
       "name": "Puszysty omlet ze szpinakiem",
@@ -3105,7 +3105,7 @@
       "kcal": 756,
       "serving_size": 1,
       "id": 55,
-      "imageUrl": ""
+      "imageUrl": "puszystyomletzeszpinakiem.png"
     },
     {
       "name": "Świąteczna owsianka z makiem i pomarańczą",
@@ -3163,7 +3163,7 @@
       "kcal": 616,
       "serving_size": 1,
       "id": 56,
-      "imageUrl": ""
+      "imageUrl": "swiatecznaowsiankazmakiemipomarancza.png"
     },
     {
       "name": "Kanapki z szynką i pomidorem + papryka",
@@ -3206,7 +3206,7 @@
       "kcal": 544,
       "serving_size": 1,
       "id": 57,
-      "imageUrl": ""
+      "imageUrl": "kanapkizszynkaipomidorem.png"
     },
     {
       "name": "Jajecznica z duszoną cebulką i pomidorami z pieczywem razowym",
@@ -3262,7 +3262,7 @@
       "kcal": 609,
       "serving_size": 1,
       "id": 58,
-      "imageUrl": ""
+      "imageUrl": "jajecznicazduszonacebulkaipomidorami.png"
     },
     {
       "name": "Owsianka z bakaliami",
@@ -3318,7 +3318,7 @@
       "kcal": 537,
       "serving_size": 1,
       "id": 59,
-      "imageUrl": ""
+      "imageUrl": "owsiankazbakaliami.png"
     },
     {
       "name": "Szakszuka z pomidorami i szynką",
@@ -3391,7 +3391,7 @@
       "kcal": 657,
       "serving_size": 1,
       "id": 60,
-      "imageUrl": ""
+      "imageUrl": "szakszukazpomidoramiiszynka.png"
     },
     {
       "name": "Serek wiejski na wytrawnie",
@@ -3440,7 +3440,7 @@
       "kcal": 530,
       "serving_size": 1,
       "id": 61,
-      "imageUrl": ""
+      "imageUrl": "serekwiejskinawytrawnie.png"
     },
     {
       "name": "Kanapki z hummusem",
@@ -3480,7 +3480,7 @@
       "kcal": 571,
       "serving_size": 1,
       "id": 62,
-      "imageUrl": ""
+      "imageUrl": "kanapkizhumusem.png"
     },
     {
       "name": "Omlet z ziołowym sosem i pomidorami",
@@ -3542,7 +3542,7 @@
       "kcal": 686,
       "serving_size": 1,
       "id": 63,
-      "imageUrl": ""
+      "imageUrl": "omletzziolowymsosemipomidorami.png"
     },
     {
       "name": "Kanapki z pastą z jajek",
@@ -3608,7 +3608,7 @@
       "kcal": 667,
       "serving_size": 1,
       "id": 64,
-      "imageUrl": ""
+      "imageUrl": "kanapkizpastazjajek.png"
     },
     {
       "name": "Roladki z tortilli z pastą jajeczną i suszonymi pomidorami",
@@ -3670,7 +3670,7 @@
       "kcal": 643,
       "serving_size": 1,
       "id": 65,
-      "imageUrl": ""
+      "imageUrl": "roladkiztortilli.png"
     },
     {
       "name": "Fit owsianka na zimno z orzechami i owocami",
@@ -3710,7 +3710,7 @@
       "kcal": 660,
       "serving_size": 1,
       "id": 66,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Jajecznica z kurkami",
@@ -3774,7 +3774,7 @@
       "kcal": 630,
       "serving_size": 1,
       "id": 67,
-      "imageUrl": ""
+      "imageUrl": "jajecznicazkurkami.png"
     },
     {
       "name": "Razowa kanapka z szynką i warzywami",
@@ -3821,7 +3821,7 @@
       "kcal": 675,
       "serving_size": 1,
       "id": 68,
-      "imageUrl": ""
+      "imageUrl": "razowakanapkazszynkaiwarzywami.png"
     },
     {
       "name": "Kanapka z szynką i surówką z pomidorów",
@@ -3889,7 +3889,7 @@
       "kcal": 567,
       "serving_size": 1,
       "id": 69,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Mocno serowy tost",
@@ -3938,7 +3938,7 @@
       "kcal": 624,
       "serving_size": 1,
       "id": 70,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Omlet po grecku",
@@ -3992,7 +3992,7 @@
       "kcal": 852,
       "serving_size": 1,
       "id": 71,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Kanapki z serem i warzywami",
@@ -4032,7 +4032,7 @@
       "kcal": 578,
       "serving_size": 1,
       "id": 72,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Serek wiejski z pomidorem i oregano",
@@ -4080,7 +4080,7 @@
       "kcal": 468,
       "serving_size": 1,
       "id": 73,
-      "imageUrl": ""
+      "imageUrl": "serekwiejskizpomidorem.png"
     },
     {
       "name": "Jajecznica z szynką",
@@ -4147,7 +4147,7 @@
       "kcal": 696,
       "serving_size": 1,
       "id": 74,
-      "imageUrl": ""
+      "imageUrl": "jajecznicazszynka.png"
     }
   ],
   "shakes": [
@@ -4197,7 +4197,7 @@
       "kcal": 1024,
       "serving_size": 1,
       "id": 1,
-      "imageUrl": ""
+      "imageUrl": "Czekoladowoorzechowykoktajlowsianyzwpc.png"
     },
     {
       "name": "Koktajl truskawkowy z płatkami owsianym",
@@ -4240,7 +4240,7 @@
       "kcal": 795,
       "serving_size": 1,
       "id": 2,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Smoothie z mango",
@@ -4283,7 +4283,7 @@
       "kcal": 822,
       "serving_size": 1,
       "id": 3,
-      "imageUrl": ""
+      "imageUrl": "smoothiezmango.png"
     },
     {
       "name": "Koktajl mango - truskawka",
@@ -4331,7 +4331,7 @@
       "kcal": 816,
       "serving_size": 1,
       "id": 4,
-      "imageUrl": ""
+      "imageUrl": "koktajlmangotruskawka.png"
     },
     {
       "name": "Koktajl bananowy z migdałami",
@@ -4379,7 +4379,7 @@
       "kcal": 936,
       "serving_size": 1,
       "id": 5,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl wielowocowy",
@@ -4427,7 +4427,7 @@
       "kcal": 891,
       "serving_size": 1,
       "id": 6,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Szejk białkowy z kakao i gruszką",
@@ -4480,7 +4480,7 @@
       "kcal": 943,
       "serving_size": 1,
       "id": 7,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl śliwkowo-kakaowy",
@@ -4533,7 +4533,7 @@
       "kcal": 579,
       "serving_size": 1,
       "id": 8,
-      "imageUrl": ""
+      "imageUrl": "koktajlsliwkowokawowy.png"
     },
     {
       "name": "Koktajl nutella",
@@ -4586,7 +4586,7 @@
       "kcal": 657,
       "serving_size": 1,
       "id": 9,
-      "imageUrl": ""
+      "imageUrl": "koktajlnutella.png"
     },
     {
       "name": "Smoothie z nasionami konopii i nektarynkami",
@@ -4624,7 +4624,7 @@
       "kcal": 519,
       "serving_size": 1,
       "id": 10,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl podwójnie proteinowy",
@@ -4667,7 +4667,7 @@
       "kcal": 630,
       "serving_size": 1,
       "id": 11,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Proteinowy koktajl biały",
@@ -4705,7 +4705,7 @@
       "kcal": 580,
       "serving_size": 1,
       "id": 12,
-      "imageUrl": ""
+      "imageUrl": "proteinowykoktajlbialy.png"
     },
     {
       "name": "Koktajl bounty proteinowy",
@@ -4748,7 +4748,7 @@
       "kcal": 611,
       "serving_size": 1,
       "id": 13,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Leśny koktajl",
@@ -4791,7 +4791,7 @@
       "kcal": 575,
       "serving_size": 1,
       "id": 14,
-      "imageUrl": ""
+      "imageUrl": "lesnykoktajl.png"
     },
     {
       "name": "Orzechowo - czekoladowy, aksamitny koktajl z wpc",
@@ -4834,7 +4834,7 @@
       "kcal": 594,
       "serving_size": 1,
       "id": 15,
-      "imageUrl": ""
+      "imageUrl": "orzechowoczekoladowyaksamitykoktajlzwpc.png"
     },
     {
       "name": "Smoothie bananowo-gruszkowe z konopiami",
@@ -4877,7 +4877,7 @@
       "kcal": 651,
       "serving_size": 1,
       "id": 16,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl tropikalny na mleczku kokosowym",
@@ -4920,7 +4920,7 @@
       "kcal": 580,
       "serving_size": 1,
       "id": 17,
-      "imageUrl": ""
+      "imageUrl": "koktajltropikalnynamleczkukoksowym.png"
     },
     {
       "name": "Koktajl truskawkowo-bananowy z płatkami owsianymi i wpc",
@@ -4963,7 +4963,7 @@
       "kcal": 575,
       "serving_size": 1,
       "id": 18,
-      "imageUrl": ""
+      "imageUrl": "koktajltruskawkowobananowy.png"
     },
     {
       "name": "Borówkowy shake",
@@ -5001,7 +5001,7 @@
       "kcal": 394,
       "serving_size": 1,
       "id": 19,
-      "imageUrl": ""
+      "imageUrl": "borowkowyshake.png"
     },
     {
       "name": "Shake na masę",
@@ -5039,7 +5039,7 @@
       "kcal": 670,
       "serving_size": 1,
       "id": 20,
-      "imageUrl": ""
+      "imageUrl": "shakenamase.png"
     },
     {
       "name": "Koktajl z mango i pomarańczą (proteinowy)",
@@ -5077,7 +5077,7 @@
       "kcal": 579,
       "serving_size": 1,
       "id": 21,
-      "imageUrl": ""
+      "imageUrl": "koktajlzmangoipomarancza.png"
     },
     {
       "name": "Koktajl owoce leśne z płatkami",
@@ -5125,7 +5125,7 @@
       "kcal": 669,
       "serving_size": 1,
       "id": 22,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl owocowy",
@@ -5168,7 +5168,7 @@
       "kcal": 423,
       "serving_size": 1,
       "id": 23,
-      "imageUrl": ""
+      "imageUrl": "koktajlowocowy.png"
     },
     {
       "name": "Koktajl czekoladowo-bananowy",
@@ -5211,7 +5211,7 @@
       "kcal": 525,
       "serving_size": 1,
       "id": 24,
-      "imageUrl": ""
+      "imageUrl": "koktajlczekoladowobananowy.png"
     },
     {
       "name": "Koktajl proteinowy",
@@ -5249,7 +5249,7 @@
       "kcal": 504,
       "serving_size": 1,
       "id": 25,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Shake proteinowy czekoladowy z bananem",
@@ -5287,7 +5287,7 @@
       "kcal": 509,
       "serving_size": 1,
       "id": 26,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Smoothie truskawkowe z płatkami owsianymi",
@@ -5325,7 +5325,7 @@
       "kcal": 516,
       "serving_size": 1,
       "id": 27,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Żółte smoothie",
@@ -5358,7 +5358,7 @@
       "kcal": 580,
       "serving_size": 1,
       "id": 28,
-      "imageUrl": ""
+      "imageUrl": "zoltesmoothie.png"
     },
     {
       "name": "Koktajl jagodowy z WPC",
@@ -5401,7 +5401,7 @@
       "kcal": 563,
       "serving_size": 1,
       "id": 29,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl proteinowy z czekoladą",
@@ -5434,7 +5434,7 @@
       "kcal": 459,
       "serving_size": 1,
       "id": 30,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl owocowy z nasionami konopii",
@@ -5483,7 +5483,7 @@
       "kcal": 522,
       "serving_size": 1,
       "id": 31,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Smoothie proteinowe",
@@ -5521,7 +5521,7 @@
       "kcal": 514,
       "serving_size": 1,
       "id": 32,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl z jabłkiem i bananem",
@@ -5569,7 +5569,7 @@
       "kcal": 622,
       "serving_size": 1,
       "id": 33,
-      "imageUrl": ""
+      "imageUrl": "koktajlzjablkiemibananem.png"
     },
     {
       "name": "Czerwony szejk antyoksydacyjny",
@@ -5617,7 +5617,7 @@
       "kcal": 504,
       "serving_size": 1,
       "id": 34,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl proteinowy z kiwi",
@@ -5650,7 +5650,7 @@
       "kcal": 404,
       "serving_size": 1,
       "id": 35,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl straciatella",
@@ -5698,7 +5698,7 @@
       "kcal": 525,
       "serving_size": 1,
       "id": 36,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl owsiany truskawka - gruszka",
@@ -5741,7 +5741,7 @@
       "kcal": 489,
       "serving_size": 1,
       "id": 37,
-      "imageUrl": ""
+      "imageUrl": "koktajlowsianytruskawkagruszkazmiodem.png"
     },
     {
       "name": "Koktajl szarlotkowy",
@@ -5779,7 +5779,7 @@
       "kcal": 435,
       "serving_size": 1,
       "id": 38,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Lekki koktajl pomarańczowy z kiwi",
@@ -5822,7 +5822,7 @@
       "kcal": 476,
       "serving_size": 1,
       "id": 39,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl wzacniający odporność",
@@ -5870,7 +5870,7 @@
       "kcal": 583,
       "serving_size": 1,
       "id": 40,
-      "imageUrl": ""
+      "imageUrl": "koktajlwzmacniajacyodpornosc.png"
     },
     {
       "name": "Koktajl z kiwi i pomarańczą",
@@ -5908,7 +5908,7 @@
       "kcal": 511,
       "serving_size": 1,
       "id": 41,
-      "imageUrl": ""
+      "imageUrl": "koktajlzkiwiipomarancza.png"
     },
     {
       "name": "Proteinowy koktajl bananowy",
@@ -5941,7 +5941,7 @@
       "kcal": 441,
       "serving_size": 1,
       "id": 42,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl brzoskwiniowy z chia",
@@ -5984,7 +5984,7 @@
       "kcal": 477,
       "serving_size": 1,
       "id": 43,
-      "imageUrl": ""
+      "imageUrl": "koktajlbrzoskwiniowyzchia.png"
     },
     {
       "name": "Koktajl malinowy z płatkami",
@@ -6027,7 +6027,7 @@
       "kcal": 547,
       "serving_size": 1,
       "id": 44,
-      "imageUrl": ""
+      "imageUrl": "koktajlmalinowyzplatkami.png"
     },
     {
       "name": "Fioletowe smoothie o smaku jagód",
@@ -6075,7 +6075,7 @@
       "kcal": 546,
       "serving_size": 1,
       "id": 45,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl energetyczny",
@@ -6122,7 +6122,7 @@
       "kcal": 584,
       "serving_size": 1,
       "id": 46,
-      "imageUrl": ""
+      "imageUrl": "koktajlenergetyczny.png"
     },
     {
       "name": "Smoothie pomarańczowe z dodatkiem jagód",
@@ -6170,7 +6170,7 @@
       "kcal": 620,
       "serving_size": 1,
       "id": 47,
-      "imageUrl": ""
+      "imageUrl": "smoothiepomaranczowezdodatkiemjagow.png"
     },
     {
       "name": "Koktajl czekoladowy z orzechami",
@@ -6218,7 +6218,7 @@
       "kcal": 537,
       "serving_size": 1,
       "id": 48,
-      "imageUrl": ""
+      "imageUrl": "koktajlczekoladowyzorzechami.png"
     },
     {
       "name": "Koktajl truskawkowy z mleczkiem kokosowym",
@@ -6256,7 +6256,7 @@
       "kcal": 522,
       "serving_size": 1,
       "id": 49,
-      "imageUrl": ""
+      "imageUrl": "koktajltruskawkowyzmleczkiemkokosowym.png"
     },
     {
       "name": "Orzechowo - czekoladowy, aksamitny koktajl z wpc",
@@ -6304,7 +6304,7 @@
       "kcal": 671,
       "serving_size": 1,
       "id": 50,
-      "imageUrl": ""
+      "imageUrl": "orzechowoczekoladowyaksamitykoktajlzwpc.png"
     },
     {
       "name": "Koktajl proteinowy z cytrusami ",
@@ -6342,7 +6342,7 @@
       "kcal": 522,
       "serving_size": 1,
       "id": 51,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Smoothie z kiwi i migdałami",
@@ -6380,7 +6380,7 @@
       "kcal": 432,
       "serving_size": 1,
       "id": 52,
-      "imageUrl": ""
+      "imageUrl": "smootiezkiwiimigdalami.png"
     },
     {
       "name": "Koktajl truskawkowy z czekoladą ",
@@ -6418,7 +6418,7 @@
       "kcal": 490,
       "serving_size": 1,
       "id": 53,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl kawowy z orzechami",
@@ -6471,7 +6471,7 @@
       "kcal": 424,
       "serving_size": 1,
       "id": 54,
-      "imageUrl": ""
+      "imageUrl": "koktajlkawowyzorzechami.png"
     },
     {
       "name": "Smoothie orzechowe z czekoladą",
@@ -6514,7 +6514,7 @@
       "kcal": 500,
       "serving_size": 1,
       "id": 55,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl proteinowy z brzoskwinią",
@@ -6557,7 +6557,7 @@
       "kcal": 527,
       "serving_size": 1,
       "id": 56,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Koktajl multiwitamina - owsiany",
@@ -6600,7 +6600,7 @@
       "kcal": 557,
       "serving_size": 1,
       "id": 57,
-      "imageUrl": ""
+      "imageUrl": "koktajlmultiwitamina.png"
     },
     {
       "name": "Koktajl bananowy z masłem orzechowym",
@@ -6643,7 +6643,7 @@
       "kcal": 594,
       "serving_size": 1,
       "id": 58,
-      "imageUrl": ""
+      "imageUrl": "koktajlbananowymasloorzechowe.png"
     },
     {
       "name": "Koktajl wysokobiałkowy z gruszką",
@@ -6686,7 +6686,7 @@
       "kcal": 568,
       "serving_size": 1,
       "id": 59,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     }
   ],
   "dinners": [
@@ -6765,7 +6765,7 @@
       "kcal": 871,
       "serving_size": 1,
       "id": 1,
-      "imageUrl": ""
+      "imageUrl": "kurczakzmakaronemposypanyserem.png"
     },
     {
       "name": "Potrawka paprykowa z indykiem i ryżem",
@@ -6829,7 +6829,7 @@
       "kcal": 773,
       "serving_size": 1,
       "id": 2,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Szybkie spaghetti z warzywami",
@@ -6911,7 +6911,7 @@
       "kcal": 1004,
       "serving_size": 1,
       "id": 3,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Łosoś pieczony i ryż z warzywami",
@@ -6979,7 +6979,7 @@
       "kcal": 930,
       "serving_size": 1,
       "id": 4,
-      "imageUrl": ""
+      "imageUrl": "losospieczonyiryzzwarzywami.png"
     },
     {
       "name": "Risotto z pieczarkami, warzywami i kurczakiem",
@@ -7044,7 +7044,7 @@
       "kcal": 729,
       "serving_size": 1,
       "id": 5,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Gulasz z kurczaka z kaszą",
@@ -7135,7 +7135,7 @@
       "kcal": 832,
       "serving_size": 1,
       "id": 6,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Pieczony pstrąg z kaszą i brokułami",
@@ -7209,7 +7209,7 @@
       "kcal": 794,
       "serving_size": 1,
       "id": 7,
-      "imageUrl": ""
+      "imageUrl": "pieczonypstragzbrokulami.png"
     },
     {
       "name": "Risotto z pieczoną dynią i parmezanem i Burger z kurczakiem",
@@ -7328,7 +7328,7 @@
       "kcal": 1093,
       "serving_size": 1,
       "id": 8,
-      "imageUrl": ""
+      "imageUrl": "risottozpieczonadyniaiparmezanem.png"
     },
     {
       "name": "Quesadilla z fasolą i warzywami",
@@ -7406,7 +7406,7 @@
       "kcal": 882,
       "serving_size": 1,
       "id": 9,
-      "imageUrl": ""
+      "imageUrl": "quesadillazfasolaiwarzywami.png"
     },
     {
       "name": "Pieczony łosoś z puree z kalafiora oraz krem z dyni",
@@ -7495,7 +7495,7 @@
       "kcal": 1115,
       "serving_size": 1,
       "id": 10,
-      "imageUrl": ""
+      "imageUrl": "lososikremzdyni.png"
     },
     {
       "name": "Potrawka w stylu prowansalskim z cukinii i mielonego mięsa",
@@ -7580,7 +7580,7 @@
       "kcal": 737,
       "serving_size": 1,
       "id": 11,
-      "imageUrl": ""
+      "imageUrl": "potrawkawstyluprowansalskimzcukiniiimielonegomiesa.png"
     },
     {
       "name": "Burrito na ostro",
@@ -7656,7 +7656,7 @@
       "kcal": 1084,
       "serving_size": 1,
       "id": 12,
-      "imageUrl": ""
+      "imageUrl": "burittonaostro.png"
     },
     {
       "name": "Kurczak w kremowy sosie curry na ostro ",
@@ -7758,7 +7758,7 @@
       "kcal": 913,
       "serving_size": 1,
       "id": 13,
-      "imageUrl": ""
+      "imageUrl": "kurczakwkremowymsosiecurrynaostro.png"
     },
     {
       "name": "Pulpeciki z sałatką grecką",
@@ -7831,7 +7831,7 @@
       "kcal": 834,
       "serving_size": 1,
       "id": 14,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Łosoś pieczony z porem i marchewką z fasolką szparagową i zupa krem z pomidorów z serem feta ",
@@ -7959,7 +7959,7 @@
       "kcal": 911,
       "serving_size": 1,
       "id": 15,
-      "imageUrl": ""
+      "imageUrl": "losospieczonyzporemimarchewkazfasolkaszparagowa.png"
     },
     {
       "name": "Makaron w sosie śmietanowo-serowym ze szpinakiem",
@@ -8059,7 +8059,7 @@
       "kcal": 1061,
       "serving_size": 1,
       "id": 16,
-      "imageUrl": ""
+      "imageUrl": "makaronwsosiesmietanowoserowymzeszpinakiem.png"
     },
     {
       "name": "Fasolka szparagowa w sosie pomidorowym oraz drobiowe kotlety z cukinią",
@@ -8158,7 +8158,7 @@
       "kcal": 870,
       "serving_size": 1,
       "id": 17,
-      "imageUrl": ""
+      "imageUrl": "fasolkaszparagowawsosiepomidorowym.png"
     },
     {
       "name": "Chińszczyzna z wołowiną",
@@ -8240,7 +8240,7 @@
       "kcal": 834,
       "serving_size": 1,
       "id": 18,
-      "imageUrl": ""
+      "imageUrl": "chinszczyznazwolowina.png"
     },
     {
       "name": "Potrawka z indyka w stylu tajskim",
@@ -8320,7 +8320,7 @@
       "kcal": 898,
       "serving_size": 1,
       "id": 19,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Dorsz pieczony w sosie cytrynowym",
@@ -8398,7 +8398,7 @@
       "kcal": 874,
       "serving_size": 1,
       "id": 20,
-      "imageUrl": ""
+      "imageUrl": "dorszpieczonywsosiecytrynowym.png"
     },
     {
       "name": "Placki dyniowe z sosem czosnkowym",
@@ -8477,7 +8477,7 @@
       "kcal": 798,
       "serving_size": 1,
       "id": 21,
-      "imageUrl": ""
+      "imageUrl": "plackidyniowezsosemczosnkowym.png"
     },
     {
       "name": "Gyros kebab",
@@ -8560,7 +8560,7 @@
       "kcal": 982,
       "serving_size": 1,
       "id": 22,
-      "imageUrl": ""
+      "imageUrl": "gyroskebab.png"
     },
     {
       "name": "Burgery wołowe z pieczarkami i serem",
@@ -8629,7 +8629,7 @@
       "kcal": 728,
       "serving_size": 1,
       "id": 23,
-      "imageUrl": ""
+      "imageUrl": "burgerywolowezpieczzrakamiiserem.png"
     },
     {
       "name": "Schab duszony w warzywach",
@@ -8739,7 +8739,7 @@
       "kcal": 733,
       "serving_size": 1,
       "id": 24,
-      "imageUrl": ""
+      "imageUrl": "schabduszonywwarzywach.png"
     },
     {
       "name": "Burgery drobiowe z warzywami",
@@ -8814,7 +8814,7 @@
       "kcal": 753,
       "serving_size": 1,
       "id": 25,
-      "imageUrl": ""
+      "imageUrl": "burgerydrobiowe.png"
     },
     {
       "name": "Pierś z kurczaka w ziołach prowansalskich z ryżem",
@@ -8880,7 +8880,7 @@
       "kcal": 576,
       "serving_size": 1,
       "id": 26,
-      "imageUrl": ""
+      "imageUrl": "pierszkurczakawziolachprowansalskich.png"
     },
     {
       "name": "Pierś z kurczaka nadziewana fetą",
@@ -8956,7 +8956,7 @@
       "kcal": 647,
       "serving_size": 1,
       "id": 27,
-      "imageUrl": ""
+      "imageUrl": "pierszkurczakanadziewanafeta.png"
     },
     {
       "name": "Wołowe chili con carne",
@@ -9062,7 +9062,7 @@
       "kcal": 864,
       "serving_size": 1,
       "id": 28,
-      "imageUrl": ""
+      "imageUrl": "wolowechilliconcarne.png"
     },
     {
       "name": "Indyk w sosie tajskim słodko-kwaśnym",
@@ -9175,7 +9175,7 @@
       "kcal": 544,
       "serving_size": 1,
       "id": 29,
-      "imageUrl": ""
+      "imageUrl": "indykwsosietajskimslodkokwasnym.png"
     },
     {
       "name": "Spaghetti carbonara",
@@ -9248,7 +9248,7 @@
       "kcal": 760,
       "serving_size": 1,
       "id": 30,
-      "imageUrl": ""
+      "imageUrl": "spaghetticarbonara.png"
     },
     {
       "name": "Makaron pełnoziarnisty z warzywami",
@@ -9323,7 +9323,7 @@
       "kcal": 700,
       "serving_size": 1,
       "id": 31,
-      "imageUrl": ""
+      "imageUrl": "makaronpelnoziarnistyzwarzywami.png"
     },
     {
       "name": "Dorsz pieczony w sosie pomidorowym z serem feta",
@@ -9420,7 +9420,7 @@
       "kcal": 748,
       "serving_size": 1,
       "id": 32,
-      "imageUrl": ""
+      "imageUrl": "dorszpieczonywsosiepomidorowymzseremfeta.png"
     },
     {
       "name": "Makaron z sosem brokułowym z nasionami konopii",
@@ -9492,7 +9492,7 @@
       "kcal": 648,
       "serving_size": 1,
       "id": 33,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Risotto z warzywami w towarzystwie łososia z piekarnika",
@@ -9560,7 +9560,7 @@
       "kcal": 627,
       "serving_size": 1,
       "id": 34,
-      "imageUrl": ""
+      "imageUrl": "risottowtowarzystwielososia.png"
     },
     {
       "name": "Indyk w sosie własnym z ziemniakami i ogórkami",
@@ -9659,7 +9659,7 @@
       "kcal": 682,
       "serving_size": 1,
       "id": 35,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Kurczak w lekkim sosie koperkowym",
@@ -9754,7 +9754,7 @@
       "kcal": 768,
       "serving_size": 1,
       "id": 36,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Bigos z kurczakiem i ziemniakami",
@@ -9837,7 +9837,7 @@
       "kcal": 629,
       "serving_size": 1,
       "id": 37,
-      "imageUrl": ""
+      "imageUrl": "bigoszkurczakiemiziemniakami.png"
     },
     {
       "name": "Gyros z kurczaka z zdrowym ryżem",
@@ -9890,7 +9890,7 @@
       "kcal": 806,
       "serving_size": 1,
       "id": 38,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Burgery drobiowe",
@@ -9974,7 +9974,7 @@
       "kcal": 787,
       "serving_size": 1,
       "id": 39,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Makaron z szynką, serem i pieczarkami",
@@ -10023,7 +10023,7 @@
       "kcal": 858,
       "serving_size": 1,
       "id": 40,
-      "imageUrl": ""
+      "imageUrl": "makaronzszynkaserempieczarkami.png"
     },
     {
       "name": "Lunch z mięsem mielonym i ryżem",
@@ -10099,7 +10099,7 @@
       "kcal": 896,
       "serving_size": 1,
       "id": 41,
-      "imageUrl": ""
+      "imageUrl": "lunchzmiesemmielonymiryzem.png"
     },
     {
       "name": "Gulasz z kurczaka z pomidorami",
@@ -10171,7 +10171,7 @@
       "kcal": 758,
       "serving_size": 1,
       "id": 42,
-      "imageUrl": ""
+      "imageUrl": "gulaszzkurczakazpomidorami.png"
     },
     {
       "name": "Tortille z indykiem i mozarellą z dressingiem czosnkowym",
@@ -10242,7 +10242,7 @@
       "kcal": 944,
       "serving_size": 1,
       "id": 43,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Łosoś pieczony z ryżem",
@@ -10305,7 +10305,7 @@
       "kcal": 866,
       "serving_size": 1,
       "id": 44,
-      "imageUrl": ""
+      "imageUrl": "losospieczonyzryzem.png"
     },
     {
       "name": "Pieczony pstrąg z ziemniakami i brokułami",
@@ -10377,7 +10377,7 @@
       "kcal": 780,
       "serving_size": 1,
       "id": 45,
-      "imageUrl": ""
+      "imageUrl": "pieczonypstragzziemniakamiibrokulami.png"
     },
     {
       "name": "Pierś z indyka w imbirze i ryż z warzywami",
@@ -10467,7 +10467,7 @@
       "kcal": 904,
       "serving_size": 1,
       "id": 46,
-      "imageUrl": ""
+      "imageUrl": "piersindykawimbirze.png"
     },
     {
       "name": "Pikantne danie meksykańskie",
@@ -10544,7 +10544,7 @@
       "kcal": 904,
       "serving_size": 1,
       "id": 47,
-      "imageUrl": ""
+      "imageUrl": "pikantnedaniemeksykanskie.png"
     },
     {
       "name": "Kotlety mielone inaczej i puree ziemniaczane z koperkiem",
@@ -10627,7 +10627,7 @@
       "kcal": 822,
       "serving_size": 1,
       "id": 48,
-      "imageUrl": ""
+      "imageUrl": "koteltymieloneinaczej.png"
     },
     {
       "name": "Kotlet schabowy z sezamem, ziemniaki i buraczki",
@@ -10714,7 +10714,7 @@
       "kcal": 865,
       "serving_size": 1,
       "id": 49,
-      "imageUrl": ""
+      "imageUrl": "kotletschabowyzsezamem.png"
     },
     {
       "name": "Pstrąg w sosie jogurtowo-cytrynowym",
@@ -10793,7 +10793,7 @@
       "kcal": 821,
       "serving_size": 1,
       "id": 50,
-      "imageUrl": ""
+      "imageUrl": "pstragwsosiejogurtowocytrynowym.png"
     },
     {
       "name": "Dietetyczna lasagne",
@@ -10879,7 +10879,7 @@
       "kcal": 726,
       "serving_size": 1,
       "id": 51,
-      "imageUrl": ""
+      "imageUrl": "dietetycznalasagne.png"
     },
     {
       "name": "Azjatyckie curry z kurczakiem",
@@ -10965,7 +10965,7 @@
       "kcal": 976,
       "serving_size": 1,
       "id": 52,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Zapiekanka z kurczakiem",
@@ -11025,7 +11025,7 @@
       "kcal": 672,
       "serving_size": 1,
       "id": 53,
-      "imageUrl": ""
+      "imageUrl": "zapiekankazkurczakiem.png"
     },
     {
       "name": "Kurczak w marynacie",
@@ -11087,7 +11087,7 @@
       "kcal": 796,
       "serving_size": 1,
       "id": 54,
-      "imageUrl": ""
+      "imageUrl": "kurczakwmarynacie.png"
     },
     {
       "name": "Dietetyczne kotlety a’la schabowe i surówka z marchewki",
@@ -11173,7 +11173,7 @@
       "kcal": 962,
       "serving_size": 1,
       "id": 55,
-      "imageUrl": ""
+      "imageUrl": "dietetycznekotleyalaschabowe.png"
     },
     {
       "name": "Dietetyczna fasolka po bretońsku",
@@ -11247,7 +11247,7 @@
       "kcal": 905,
       "serving_size": 1,
       "id": 56,
-      "imageUrl": ""
+      "imageUrl": "dietetycznafasolkapobretonsku.png"
     },
     {
       "name": "Lunuch - kuskus curry z kurczakiem",
@@ -11325,7 +11325,7 @@
       "kcal": 902,
       "serving_size": 1,
       "id": 57,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Sałatka z kurczaka z kaszą i warzywami",
@@ -11376,7 +11376,7 @@
       "kcal": 799,
       "serving_size": 1,
       "id": 58,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Qurito z kurczakiem - czyli quesadila z patelni",
@@ -11438,7 +11438,7 @@
       "kcal": 794,
       "serving_size": 1,
       "id": 59,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Ekspresowy lunch z kurczakiem",
@@ -11534,7 +11534,7 @@
       "kcal": 782,
       "serving_size": 1,
       "id": 60,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Chili con carne z ryżem",
@@ -11613,7 +11613,7 @@
       "kcal": 863,
       "serving_size": 1,
       "id": 61,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Makaron a'la pierogi ruskie",
@@ -11677,7 +11677,7 @@
       "kcal": 643,
       "serving_size": 1,
       "id": 62,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Kuskus z patelni z kurczakiem",
@@ -11755,7 +11755,7 @@
       "kcal": 705,
       "serving_size": 1,
       "id": 63,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Pełnoziarniste Spaghetti Bolognese",
@@ -11820,7 +11820,7 @@
       "kcal": 870,
       "serving_size": 1,
       "id": 64,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Łosoś z pieczonymi ziemniakami",
@@ -11889,7 +11889,7 @@
       "kcal": 732,
       "serving_size": 1,
       "id": 65,
-      "imageUrl": ""
+      "imageUrl": "szybkiespaghetti.png"
     },
     {
       "name": "Zapiekanka makaronowa z warzywami",
@@ -11995,7 +11995,7 @@
       "kcal": 921,
       "serving_size": 1,
       "id": 66,
-      "imageUrl": ""
+      "imageUrl": "zapiekankamakaronowa.png"
     }
   ]
 }

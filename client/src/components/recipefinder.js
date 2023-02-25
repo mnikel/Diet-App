@@ -62,7 +62,7 @@ function RecipeFinder () {
             {displayedRecipes.map((recipe) => (
                 <RecipeThumbnail
                     key={recipe.id}
-                    imageUrl={recipe.imageUrl}
+                    imageUrl={require(`../../../client/public/foodphotos/` + recipe.imageUrl)}
                     recipeName={recipe.name}
                     kcal={recipe.kcal}
                     macros={recipe.macros}
@@ -72,6 +72,7 @@ function RecipeFinder () {
                 {selectedRecipe && ( // tutaj call selectedREcipe i jego render w komponencie
                      <Recipe
                          recipeName={selectedRecipe.name}
+                         imageUrl={require(`../../../client/public/foodphotos/` + selectedRecipe.imageUrl)}
                          kcal={selectedRecipe.kcal}
                          macros={selectedRecipe.macros}
                          ingredients={selectedRecipe.ingredients}
