@@ -1,19 +1,53 @@
 @import url(../colors.css);
 
-header {
-    height: 100vh;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: var(--dark-color);;
-    background-image: url(../../public/wiejskipieczarki.jpg);
-    background-size: cover;
-    background-position: center;
+#header {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-image: url(../../public/wiejskipieczarki.jpg);
+  background-size: cover;
+  padding: 20px;
+  margin-top: 0;
 }
-  
-header h1 {
-    display: flex;
-    margin-left: 1.5em;
-    font-size: 2rem;
-    color: var(--light-color);;
-  }
+
+#header_logo {
+  align-self: flex-start;
+  height: 200px;
+  width: 600px;
+  background-color: var(--light-color);
+  color: var(--dark-color);
+}
+
+#menu {
+  align-self: flex-end;
+  position: absolute;
+  margin-top: 0;
+  padding: 0;
+}
+
+#menu a {
+    color: var(--secondary-color);
+}
+
+#menu a:hover {
+    color: var(--light-color);
+}
+
+#header_description {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 2.5rem;
+  text-align: left;
+  width: 800px;
+}
+
+#header_button {
+  align-self: flex-start;
+  margin-top: auto;
+  margin-left: 50px;
+  margin-bottom: 100px;
+}
+
+#header_button button {
+    text-transform: uppercase;
+}

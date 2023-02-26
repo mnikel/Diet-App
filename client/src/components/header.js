@@ -7,7 +7,7 @@ import Button from "./button";
 function Header() {
   const headerLinks = [
     { label: "Home", url: "/" },
-    { label: "About", url: "/about" },
+    { label: "Jak szukać", url: "#howto_main_div" },
     { label: "Footer", url: "#footer" },
   ];
 
@@ -16,24 +16,32 @@ function Header() {
   };
 
   return (
-    <div className="Header">
-      <header>
-        <div className="headerimg">
-          <img src={logo} className="App-logo" alt="logo" />
-        </div>
+    <div id="header">
+      <div id="header_logo">
+        <h1>TUTAJ JEST SUPER LOGO HEHE</h1>
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+      </div>
+
+         <div id="menu">
+        <Menu links={headerLinks} />
+      </div>
+      <div id="header_description">
         <h1>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-          nec molestie dui. Cras aliquam cursus rhoncus. Duis interdum nisi
+          nec molestie dui.</h1>
+          <p> Duis interdum nisi
           euismod turpis venenatis rhoncus. Nam pellentesque dolor bibendum
-          aliquet sollicitudin. 
-        </h1>
-        <Menu links={headerLinks} />
+          aliquet sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+          nec molestie dui. </p>
+       
+      </div>
+      <div id="header_button">
         <Button
-          label="Find recipes"
+          label="Znajdź przepis"
           size="large"
           onClick={handleRedirectToRecipeFinder}
         />
-      </header>
+      </div>
     </div>
   );
 }
