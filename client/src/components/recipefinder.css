@@ -1,13 +1,15 @@
+@import url(../colors.css);
+
 section {
         height: 10vh;
-        background-color: #395B64;
+        background-color: var(--primary-color);
         display: flex;
         align-items: center;
         justify-content: space-around;
         flex-direction: row;
 }
 .recipefinder_div {
-    background-color: #395B64 ;
+    background-color: var(--primary-color) ;
 }
 .recipefinder_div_categories {
     display: flex;
@@ -30,7 +32,7 @@ section {
 .recipefinder_div_categories input {
     position: absolute;
     margin-top: 5rem;
-    background-color: #A5C9CA;
+    background-color: var(--secondary-color);
     border: none;
     border-radius: 20px;
     width: 50rem;
@@ -56,5 +58,5 @@ margin-top: 2rem;
 display: flex;
 flex-wrap: wrap;
 flex: 0 0 12.5%;
-background-color: #395B64
+background-color: var(--primary-color)
 ;}

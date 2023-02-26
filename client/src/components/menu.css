@@ -1,3 +1,5 @@
+@import url(../colors.css);
+
 .navbar {
   display: flex;
   flex-direction: row;
@@ -27,7 +29,7 @@ nav {
   
 nav li a {
   text-decoration: none;
-  color: #E7F6F2;
+  color: var(--light-color);;
   font-weight: bold;
 }
 

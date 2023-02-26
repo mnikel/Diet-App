@@ -1,9 +1,10 @@
+@import url(../colors.css);
 
 #thumbnail {
     width: 200px;
     height: 250px; 
     border: 1px solid black;
-    background: #2C3333;
+    background: var(--dark-color);;
     border-radius: 20px;
     margin: 1rem;
 }
@@ -21,11 +22,11 @@
     border-top-left-radius: 20px;
 }
 
-#thumbnailbutton {
+#thumbnailbutton { /* TODO OGARNAC CZY GDZIE INDZIEJ NIE MA TEGO STYLU!!! */ 
     border: none;
     border-radius: 20px;
     background: none;
-    color: #E7F6F2;
+    color: var(--light-color);;
     padding: 0;
 }
 

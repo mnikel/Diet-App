@@ -1,9 +1,11 @@
+@import url(../colors.css);
+
 header {
     height: 100vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #2C3333;
+    background-color: var(--dark-color);;
     background-image: url(../../public/wiejskipieczarki.jpg);
     background-size: cover;
     background-position: center;
@@ -13,5 +15,5 @@ header h1 {
     display: flex;
     margin-left: 1.5em;
     font-size: 2rem;
-    color: #E7F6F2;
+    color: var(--light-color);;
   }

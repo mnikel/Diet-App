@@ -1,9 +1,11 @@
+@import url(../colors.css);
+
 /* button {
     display: flex;
     align-items: center;
     justify-content: space-around;
     flex-direction: row;
-    background-color: #A5C9CA;
+    background-color: #var(--secondary-color);
     border:  none;
     border-radius: 20px;
     height: 2em;
@@ -18,7 +20,7 @@
     align-items: center;
     justify-content: space-around;
     flex-direction: row;
-    background-color: #A5C9CA;
+    background-color: var(--secondary-color);
     border:  none;
     border-radius: 20px;
     height: 2em;
@@ -28,14 +30,14 @@
     margin-top: 1em;
   }
   .Button:hover {
-    background-color: #E7F6F2;
+    background-color: var(--light-color);
   }
   .Button.large {
     display: flex;
     align-items: center;
     justify-content: space-around;
     flex-direction: row;
-    background-color: #A5C9CA;
+    background-color: var(--secondary-color);
     border:  none;
     border-radius: 1rem;
     height: 5rem;
@@ -46,9 +48,9 @@
     font-size: 2rem;
   }
   .Button.large:hover {
-    background-color: #E7F6F2;
+    background-color: var(--light-color);
   }
 
   .Button.active {
-    background-color: #E7F6F2;
+    background-color: var(--light-color);
   }

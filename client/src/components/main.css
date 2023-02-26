@@ -1,5 +1,7 @@
+@import url(../colors.css);
+
 main {
     height: 90vh;
-    background: #395B64;
+    background: var(--primary-color);
     /* background-image: url(../../public/wiejskipieczarki.jpg); */
 }

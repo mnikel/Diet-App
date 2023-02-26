@@ -1,3 +1,5 @@
+@import url(../colors.css);
+
  #recipe {
     position: relative;
     min-width: 800px;
@@ -6,7 +8,7 @@
     max-height: 1000px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #2C3333;
+    background-color: var(--dark-color);;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 20px;
     margin-top: 1rem;
@@ -26,7 +28,9 @@
   #recipe_macros {
     margin-left: 20px;
   }
-  
+  #recipe_macros h3 {
+    text-transform: uppercase;
+  }
   #recipeimg {
     max-width: 100%;
     height: auto;
@@ -37,6 +41,10 @@
   #recipe_ingredients, #recipe_preparation {
     max-height: 400px;
     overflow: auto;
+  }
+
+  #recipe_ingredients, #recipe_preparation h3 {
+    text-transform: uppercase;
   }
   #recipe_ingredients p {
     text-transform: uppercase;

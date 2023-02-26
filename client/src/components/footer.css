@@ -1,9 +1,11 @@
+@import url(../colors.css);
+
 footer {
     height: 20vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #2C3333;
+    background-color: var(--primary-color);
 
 }
 
@@ -16,10 +18,10 @@ footer img {
   
 a {
     text-decoration: none;
-    color: #E7F6F2;
+    color: var(--light-color);
 }
 
 a:visited {
     text-decoration: none;
-    color: #E7F6F2;
+    color: var(--light-color);
 }
