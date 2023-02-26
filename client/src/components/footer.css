@@ -1,27 +1,72 @@
 @import url(../colors.css);
 
-footer {
-    height: 20vh;
+#footer {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: var(--primary-color);
+    flex-direction: column;
+    height: 20vh;
+    background-color: var(--dark-color);
+    padding: 20px;
+    margin-top: 0;
 
 }
 
-footer img {
-    position: relative;
-    width: 200px;
-    margin: 0;
+#footer_logo {
+    align-self: flex-start;
+    height: 200px;
+    width: 600px;
+    background-color: var(--light-color);
+    color: var(--dark-color);
+  }
+  
+
+  #footer_menu {
+position: absolute;   
+ flex-wrap: wrap;
+    align-self: flex-end;
+    justify-content: right;
+    margin-top: 0;
     padding: 0;
   }
   
-a {
-    text-decoration: none;
-    color: var(--light-color);
-}
+  #footer_menu ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, auto);
+  grid-gap: 10px;
+  margin-top: 0;
+  padding: 0;
+  float: right;
+  }
 
-a:visited {
+  #footer_menu li {
+    box-sizing: border-box;
+    padding: 0;
+    text-align: center;
+  }
+  
+  
+#footer_menu a {
+      color: var(--secondary-color);
+      text-decoration: none;
+  }
+  
+#footer_menu a:hover {
+      color: var(--light-color);
+      text-decoration: none;
+  }
+
+  
+  #footer_rights {
+    position: absolute;
+    margin-top: 280px;
+    align-self: center;
+  }
+
+  #footer_rights a {
     text-decoration: none;
     color: var(--light-color);
-}
+  }
+  #footer_rights a:visited {
+    text-decoration: none;
+    color: var(--light-color);
+  }

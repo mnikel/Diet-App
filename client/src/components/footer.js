@@ -12,17 +12,26 @@ function Footer ()  {
         { label: "To Explore?", url: "/explore"},
         { label: "Or Not to Explore?", url: "/explore"},
         { label: "Explore!", url: "/explore"}
+        
     ];
     return (
-        <div id="footer">
-            <footer>
-                <div className="footerimg">
-                     <img src={logo} className="App-logo" alt="logo" />
+
+            <footer id="footer">
+
+                <div id="footer_logo">
+                <h1>TUTAJ JEST SUPER LOGO HEHE</h1>
+         {/* <img src={logo} className="App-logo" alt="logo" /> */}
+                 </div>
+               
+            <div id="footer_menu">
+                <Menu links={footerLinks}/>
+            </div>
+
+                 <div id="footer_rights">
+                    <p>created by <a href="https://github.com/mnikel" target="_blank">mnikel</a></p>
                 </div>
-                <p>created by <a href="https://github.com/mnikel" target="_blank">mnikel</a></p>
-            <Menu links={footerLinks}/>
+
             </footer>
-        </div>
     )
 }
 

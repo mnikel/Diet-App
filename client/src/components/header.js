@@ -22,7 +22,7 @@ function Header() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
       </div>
 
-         <div id="menu">
+         <div id="menu_header">
         <Menu links={headerLinks} />
       </div>
       <div id="header_description">
@@ -33,7 +33,6 @@ function Header() {
           euismod turpis venenatis rhoncus. Nam pellentesque dolor bibendum
           aliquet sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
           nec molestie dui. </p>
-       
       </div>
       <div id="header_button">
         <Button

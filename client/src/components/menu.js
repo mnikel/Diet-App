@@ -2,7 +2,6 @@ import { React, ReactDOM } from "react";
 import "./menu.css"
 function Menu ({ links }) {
     return (
-        <div className="navbar">
             <nav>
                 <ul>
                     {links.map((link, index) => (
@@ -12,7 +11,7 @@ function Menu ({ links }) {
                     ))}
                 </ul>
             </nav>
-        </div>
+
     )
 }
 
