@@ -2,10 +2,11 @@
 
 # dependencies
 api/node_modules
+mongodb.js
 client/node_modules
 client/.pnp
 client/.pnp.js
-
+mongodb.js
 # testing
 client/coverage
 
