@@ -11,7 +11,8 @@ const mongoDB = require('../mongodb')
 
 
 app.use(cors())
-
+// TODO dodac endpoint do breakfasts, shakes, dinners
+// type: TYPE 
 app.get('/recipes/meals', async (req, res) => {
     try { 
         const recipes = await Recipe.find();
@@ -37,6 +38,7 @@ app.get('/recipes/meals', async (req, res) => {
 //         res.status(500).send("Failed to read file");
 //     }
 // });
+
 
 const port = process.env.PORT || 8080;
 

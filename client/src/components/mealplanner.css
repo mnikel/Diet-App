@@ -1,0 +1,36 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    color: black;
+  }
+  
+  thead {
+    background-color: #e9ecef;
+    color: #212529;
+    border: 1px solid rgba(0,0,0,.125);
+  }
+  
+  th, td {
+    padding: .75rem;
+    text-align: center;
+    vertical-align: middle;
+    border-top: 1px solid rgba(0,0,0,.125);
+  }
+  
+  th {
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  td {
+    font-size: 0.875rem;
+  }
+  

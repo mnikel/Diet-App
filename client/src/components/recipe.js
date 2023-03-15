@@ -36,7 +36,31 @@ const Recipe = ({
     "woreczek": ["woreczek", "woreczka", "woreczków"],
     "kostka": ["kostka", "kostki", "kostek"]
   };
-  
+
+    // TODO zamienic na switch 
+/*   function formatQuantity(quantity, unit) {
+    switch (unit) {
+      case "porcja": 
+      if ((quantity > 1 && quantity < 2) || (quantity > 2 && quantity < 3)||  (quantity > 3 && quantity < 4) ) {
+        unit = endings[2]
+      }
+        break;
+      case "garść":
+        if ((quantity < 1) || (quantity > 1 && quantity < 2) || (quantity > 2 && quantity < 3) ||  (quantity > 3 && quantity < 4) ) {
+          unit = endings[2] TODO: wydzielic warunki do osobnych funckji np. garscQuant = if ((quantity < 1) || (quantity > 1 && quantity < 2) || (quantity > 2 && quantity < 3) ||  (quantity > 3 && quantity < 4) )
+        }
+        break;
+      default:
+        if (quantity < 1 || (quantity > 1 && quantity <= 4)) {
+          unit = endings[1];
+        } else if (quantity === 1) {
+          unit = endings[0];
+        } else {
+          unit = endings[2];
+        }
+    }
+    return `${quantity} ${unit}`; */
+    
   function formatQuantity(quantity, unit) {
     const endings = declinationEndings[unit];
     if ((quantity > 1 && quantity < 2 && unit === "porcja") || (quantity > 2 && quantity < 3 && unit === "porcja")||  (quantity > 3 && quantity < 4 && unit === "porcja") ) {
